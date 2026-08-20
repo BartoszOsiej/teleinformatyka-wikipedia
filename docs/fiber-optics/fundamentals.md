@@ -18,7 +18,7 @@ sidebar_position: 1
 | Core diameter | 8-10 μm |
 | Cladding | 125 μm |
 | Wavelength | 1310 nm / 1550 nm |
-| Bandwidth | Very high (>10 Gbps over 100km) |
+| Bandwidth | Very high (`>10` Gbps over 100km) |
 | Distance | Up to 80+ km without amplification |
 | Cost | Higher (lasers, tighter tolerances) |
 | Use | WAN, telecom, data centers |
@@ -39,7 +39,7 @@ sidebar_position: 1
 |---------|-------------|------------|
 | Core size | 9 μm | 50-62.5 μm |
 | Light source | Laser (VCSEL/Fabry-Perot) | LED/VCSEL |
-| Distance | Long (>1 km) | Short (<2 km) |
+| Distance | Long (`>1` km) | Short (`<2` km) |
 | Cost | Higher | Lower |
 | Alignment | Tighter | Easier |
 | Application | WAN, carrier | LAN, data center |
@@ -98,7 +98,7 @@ Light travels through the core because the core has a higher refractive index
 than the cladding, causing total internal reflection at the boundary.
 
 ```
-Incident angle > critical angle → Total Internal Reflection
+Incident angle \> critical angle (must exceed critical angle) → Total Internal Reflection
 
 Critical angle = arcsin(n₂/n₁)
 
