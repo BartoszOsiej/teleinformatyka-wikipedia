@@ -135,10 +135,8 @@ sidebar_position: 1
 
 ---
 
-## 🔗 Related Topics
-
-- [CompTIA Certifications](/certifications/comptia)
-- [Juniper Certifications](/certifications/juniper)
-- [Cloud Certifications](/certifications/cloud)
+- 
+- 
+- 
 
 ---

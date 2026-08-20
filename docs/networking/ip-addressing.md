@@ -117,8 +117,6 @@ CIDR:        192.168.0.0/22 → 1022 hosts
 
 ---
 
-## 🔗 Related Topics
-
 - [TCP/IP](/networking/tcp-ip)
 - [Routing](/networking/routing)
 - [NAT/PAT](/networking/tcp-ip#nat)

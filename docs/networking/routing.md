@@ -197,11 +197,9 @@ router eigrp 100
 
 ---
 
-## 🔗 Related Topics
-
 - [TCP/IP](/networking/tcp-ip)
 - [Switching](/networking/switching)
-- [MPLS/VPN](/protocols/mpls-vpn)
-- [OSPF/BGP Deep Dive](/protocols/bgp-ospf)
+- 
+- 
 
 ---

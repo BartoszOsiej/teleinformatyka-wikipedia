@@ -161,10 +161,8 @@ capture and interactively browse traffic running on a computer network.
 
 ---
 
-## 🔗 Related Topics
-
-- [Nmap](/tools/nmap)
-- [Monitoring](/tools/monitoring)
-- [Troubleshooting](/scenarios/troubleshooting)
+- 
+- 
+- 
 
 ---

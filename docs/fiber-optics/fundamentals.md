@@ -142,11 +142,9 @@ Example (10 km link):
 
 ---
 
-## 🔗 Related Topics
-
-- [Cables & Connectors](/fiber-optics/cables-connectors)
-- [OTDR Testing](/fiber-optics/testing-otdr)
-- [WDM/DWDM](/fiber-optics/wdm-dwdm)
-- [Fusion Splicing](/fiber-optics/fusion-splicing)
+- 
+- 
+- 
+- 
 
 ---

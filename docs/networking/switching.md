@@ -158,8 +158,6 @@ interface GigabitEthernet0/1
 
 ---
 
-## 🔗 Related Topics
-
 - [OSI Model](/networking/osi-model)
 - [Routing](/networking/routing)
 - [Firewalls](/security/firewalls)

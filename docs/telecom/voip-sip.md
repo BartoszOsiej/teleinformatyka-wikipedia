@@ -147,10 +147,8 @@ Replaces traditional PRI/T1 lines with IP-based connectivity.
 
 ---
 
-## 🔗 Related Topics
-
 - [QoS](/telecom/qos)
 - [SDH/SONET](/telecom/sdh-sonet)
-- [VPN](/security/vpn)
+- 
 
 ---

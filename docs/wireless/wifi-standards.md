@@ -149,11 +149,9 @@ Identifies overlapping BSS (Basic Service Sets) to reduce co-channel interferenc
 
 ---
 
-## 🔗 Related Topics
-
-- [LTE/4G](/wireless/lte-4g)
-- [5G NR](/wireless/5g-nr)
-- [Antennas](/wireless/antennas)
-- [Security](/security/encryption)
+- 
+- 
+- 
+- 
 
 ---

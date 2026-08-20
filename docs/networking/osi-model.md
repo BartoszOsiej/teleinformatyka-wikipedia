@@ -218,8 +218,6 @@ Handles transmission of raw bits over a physical medium.
 
 ---
 
-## 🔗 Related Topics
-
 - [TCP/IP Stack](/networking/tcp-ip)
 - [Routing](/networking/routing)
 - [Switching](/networking/switching)

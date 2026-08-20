@@ -201,12 +201,10 @@ Internal: 192.168.1.11:5000 → External: 203.0.113.1:40002
 
 ---
 
-## 🔗 Related Topics
-
 - [OSI Model](/networking/osi-model)
 - [Routing](/networking/routing)
 - [Switching](/networking/switching)
-- [VPN](/security/vpn)
-- [BGP/OSPF](/protocols/bgp-ospf)
+- 
+- 
 
 ---

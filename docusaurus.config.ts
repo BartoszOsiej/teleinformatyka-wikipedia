@@ -68,15 +68,15 @@ const config: Config = {
         {
           title: 'Dokumentacja',
           items: [
-            { label: 'Sieci komputerowe', to: '/networking/' },
-            { label: 'Telekomunikacja', to: '/telecom/' },
-            { label: 'Światłowody', to: '/fiber-optics/' },
+            { label: 'Sieci komputerowe', to: '/networking/osi-model' },
+            { label: 'Telekomunikacja', to: '/telecom/voip-sip' },
+            { label: 'Światłowody', to: '/fiber-optics/fundamentals' },
           ],
         },
         {
           title: 'More',
           items: [
-            { label: 'Bezpieczeństwo', to: '/security/' },
+            { label: 'Bezpieczeństwo', to: '/security/firewalls' },
             { label: 'Certyfikaty', to: '/certifications/' },
             { label: 'GitHub', href: 'https://github.com/BartoszOsiej/teleinformatyka-wikipedia' },
           ],

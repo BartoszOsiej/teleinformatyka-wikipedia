@@ -168,11 +168,9 @@ Router 2 (Standby):
 
 ---
 
-## 🔗 Related Topics
-
 - [Routing](/networking/routing)
 - [Switching](/networking/switching)
 - [Firewalls](/security/firewalls)
-- [Troubleshooting](/scenarios/troubleshooting)
+- 
 
 ---

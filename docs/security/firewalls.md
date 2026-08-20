@@ -146,11 +146,9 @@ Traffic from lower → higher: denied by default (must explicitly permit)
 
 ---
 
-## 🔗 Related Topics
-
-- [VPN](/security/vpn)
-- [Encryption](/security/encryption)
-- [IDS/IPS](/security/ids-ips)
-- [Zero Trust](/security/zero-trust)
+- 
+- 
+- 
+- 
 
 ---
