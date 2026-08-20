@@ -1,14 +1,14 @@
 {
   "id": "fiber-optics/fundamentals",
   "title": "💡 Fiber Optics — Światłowody",
-  "description": "PL: Podstawy transmisji danych za pomocą światła w włóknach szklanych.",
+  "description": "---",
   "source": "@site/docs/fiber-optics/fundamentals.md",
   "sourceDirName": "fiber-optics",
   "slug": "/fiber-optics/fundamentals",
-  "permalink": "/teleinformatyka-wikipedia/en/fiber-optics/fundamentals",
+  "permalink": "/teleinformatyka-wikipedia/fiber-optics/fundamentals",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/main/docs/fiber-optics/fundamentals.md",
+  "editUrl": "https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/master/docs/fiber-optics/fundamentals.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,10 +18,10 @@
   "sidebar": "mainSidebar",
   "previous": {
     "title": "📞 VoIP & SIP — Voice over IP",
-    "permalink": "/teleinformatyka-wikipedia/en/telecom/voip-sip"
+    "permalink": "/teleinformatyka-wikipedia/telecom/voip-sip"
   },
   "next": {
     "title": "💡 Fiber Optics — Światłowody",
-    "permalink": "/teleinformatyka-wikipedia/en/fiber-optics/fundamentals"
+    "permalink": "/teleinformatyka-wikipedia/fiber-optics/fundamentals"
   }
 }

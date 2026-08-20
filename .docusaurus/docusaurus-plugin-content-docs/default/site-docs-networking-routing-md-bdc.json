@@ -1,14 +1,14 @@
 {
   "id": "networking/routing",
   "title": "🌐 Routing — Kierowanie ruchem",
-  "description": "PL: Proces wyboru ścieżki dla pakietów w sieci.",
+  "description": "---",
   "source": "@site/docs/networking/routing.md",
   "sourceDirName": "networking",
   "slug": "/networking/routing",
-  "permalink": "/teleinformatyka-wikipedia/en/networking/routing",
+  "permalink": "/teleinformatyka-wikipedia/networking/routing",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/main/docs/networking/routing.md",
+  "editUrl": "https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/master/docs/networking/routing.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -18,10 +18,10 @@
   "sidebar": "mainSidebar",
   "previous": {
     "title": "📍 IP Addressing — Adresowanie IP",
-    "permalink": "/teleinformatyka-wikipedia/en/networking/ip-addressing"
+    "permalink": "/teleinformatyka-wikipedia/networking/ip-addressing"
   },
   "next": {
     "title": "🔌 Switching — Przełączanie",
-    "permalink": "/teleinformatyka-wikipedia/en/networking/switching"
+    "permalink": "/teleinformatyka-wikipedia/networking/switching"
   }
 }

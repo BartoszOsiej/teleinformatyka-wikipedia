@@ -1,14 +1,14 @@
 {
   "id": "networking/tcp-ip",
   "title": "🌐 TCP/IP — Transmission Control Protocol / Internet Protocol",
-  "description": "PL: Podstawowy stos protokołów internetowych.",
+  "description": "---",
   "source": "@site/docs/networking/tcp-ip.md",
   "sourceDirName": "networking",
   "slug": "/networking/tcp-ip",
-  "permalink": "/teleinformatyka-wikipedia/en/networking/tcp-ip",
+  "permalink": "/teleinformatyka-wikipedia/networking/tcp-ip",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/main/docs/networking/tcp-ip.md",
+  "editUrl": "https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/master/docs/networking/tcp-ip.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -18,10 +18,10 @@
   "sidebar": "mainSidebar",
   "previous": {
     "title": "🌐 Model OSI — Open Systems Interconnection",
-    "permalink": "/teleinformatyka-wikipedia/en/networking/osi-model"
+    "permalink": "/teleinformatyka-wikipedia/networking/osi-model"
   },
   "next": {
     "title": "📍 IP Addressing — Adresowanie IP",
-    "permalink": "/teleinformatyka-wikipedia/en/networking/ip-addressing"
+    "permalink": "/teleinformatyka-wikipedia/networking/ip-addressing"
   }
 }

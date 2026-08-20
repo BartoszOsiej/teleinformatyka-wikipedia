@@ -1,78 +1,78 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/teleinformatyka-wikipedia/en/",
+      "path": "/teleinformatyka-wikipedia/pl/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/teleinformatyka-wikipedia/en/",
+          "path": "/teleinformatyka-wikipedia/pl/",
           "mainDocId": "index",
           "docs": [
             {
               "id": "certifications/cisco",
-              "path": "/teleinformatyka-wikipedia/en/certifications/cisco",
+              "path": "/teleinformatyka-wikipedia/pl/certifications/cisco",
               "sidebar": "mainSidebar"
             },
             {
               "id": "fiber-optics/fundamentals",
-              "path": "/teleinformatyka-wikipedia/en/fiber-optics/fundamentals",
+              "path": "/teleinformatyka-wikipedia/pl/fiber-optics/fundamentals",
               "sidebar": "mainSidebar"
             },
             {
               "id": "index",
-              "path": "/teleinformatyka-wikipedia/en/",
+              "path": "/teleinformatyka-wikipedia/pl/",
               "sidebar": "mainSidebar"
             },
             {
               "id": "networking/ip-addressing",
-              "path": "/teleinformatyka-wikipedia/en/networking/ip-addressing",
+              "path": "/teleinformatyka-wikipedia/pl/networking/ip-addressing",
               "sidebar": "mainSidebar"
             },
             {
               "id": "networking/osi-model",
-              "path": "/teleinformatyka-wikipedia/en/networking/osi-model",
+              "path": "/teleinformatyka-wikipedia/pl/networking/osi-model",
               "sidebar": "mainSidebar"
             },
             {
               "id": "networking/routing",
-              "path": "/teleinformatyka-wikipedia/en/networking/routing",
+              "path": "/teleinformatyka-wikipedia/pl/networking/routing",
               "sidebar": "mainSidebar"
             },
             {
               "id": "networking/switching",
-              "path": "/teleinformatyka-wikipedia/en/networking/switching",
+              "path": "/teleinformatyka-wikipedia/pl/networking/switching",
               "sidebar": "mainSidebar"
             },
             {
               "id": "networking/tcp-ip",
-              "path": "/teleinformatyka-wikipedia/en/networking/tcp-ip",
+              "path": "/teleinformatyka-wikipedia/pl/networking/tcp-ip",
               "sidebar": "mainSidebar"
             },
             {
               "id": "scenarios/network-design",
-              "path": "/teleinformatyka-wikipedia/en/scenarios/network-design",
+              "path": "/teleinformatyka-wikipedia/pl/scenarios/network-design",
               "sidebar": "mainSidebar"
             },
             {
               "id": "security/firewalls",
-              "path": "/teleinformatyka-wikipedia/en/security/firewalls",
+              "path": "/teleinformatyka-wikipedia/pl/security/firewalls",
               "sidebar": "mainSidebar"
             },
             {
               "id": "telecom/voip-sip",
-              "path": "/teleinformatyka-wikipedia/en/telecom/voip-sip",
+              "path": "/teleinformatyka-wikipedia/pl/telecom/voip-sip",
               "sidebar": "mainSidebar"
             },
             {
               "id": "tools/wireshark",
-              "path": "/teleinformatyka-wikipedia/en/tools/wireshark",
+              "path": "/teleinformatyka-wikipedia/pl/tools/wireshark",
               "sidebar": "mainSidebar"
             },
             {
               "id": "wireless/wifi-standards",
-              "path": "/teleinformatyka-wikipedia/en/wireless/wifi-standards",
+              "path": "/teleinformatyka-wikipedia/pl/wireless/wifi-standards",
               "sidebar": "mainSidebar"
             }
           ],
@@ -80,7 +80,7 @@
           "sidebars": {
             "mainSidebar": {
               "link": {
-                "path": "/teleinformatyka-wikipedia/en/",
+                "path": "/teleinformatyka-wikipedia/pl/",
                 "label": "index"
               }
             }

@@ -1,14 +1,14 @@
 {
   "id": "networking/osi-model",
   "title": "🌐 Model OSI — Open Systems Interconnection",
-  "description": "PL: Model referencyjny opisujący komunikację w sieciach komputerowych w 7 warstwach.",
+  "description": "---",
   "source": "@site/docs/networking/osi-model.md",
   "sourceDirName": "networking",
   "slug": "/networking/osi-model",
-  "permalink": "/teleinformatyka-wikipedia/en/networking/osi-model",
+  "permalink": "/teleinformatyka-wikipedia/networking/osi-model",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/main/docs/networking/osi-model.md",
+  "editUrl": "https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/master/docs/networking/osi-model.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,10 +18,10 @@
   "sidebar": "mainSidebar",
   "previous": {
     "title": "📡 Teleinformatyka Wikipedia",
-    "permalink": "/teleinformatyka-wikipedia/en/"
+    "permalink": "/teleinformatyka-wikipedia/"
   },
   "next": {
     "title": "🌐 Model OSI — Open Systems Interconnection",
-    "permalink": "/teleinformatyka-wikipedia/en/networking/osi-model"
+    "permalink": "/teleinformatyka-wikipedia/networking/osi-model"
   }
 }

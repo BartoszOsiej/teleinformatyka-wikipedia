@@ -9,6 +9,9 @@
     "436": [
       436
     ],
+    "10573051": [
+      351
+    ],
     "17896441": [
       869,
       401
@@ -23,32 +26,35 @@
       869,
       354
     ],
-    "15bb2f12": [
-      528
+    "2fadd4c3": [
+      622
     ],
-    "219a29c5": [
-      437
+    "3036dade": [
+      173
     ],
-    "30648dd9": [
-      621
-    ],
-    "526560c9": [
-      335
+    "408452af": [
+      195
     ],
     "5e95c892": [
       647
     ],
-    "762ee5fe": [
-      282
+    "7f14494d": [
+      866
     ],
-    "82bc0b29": [
-      865
+    "89b66dd7": [
+      411
+    ],
+    "902aa607": [
+      313
+    ],
+    "9864bd5a": [
+      454
     ],
     "a7bd4aaa": [
       98
     ],
-    "a8c771fe": [
-      565
+    "a814d049": [
+      282
     ],
     "a94703ab": [
       869,
@@ -57,26 +63,20 @@
     "aba21aa0": [
       742
     ],
-    "bdcc1c93": [
-      851
+    "b8e181dc": [
+      425
     ],
-    "c2c69a6b": [
-      513
+    "c46ab07d": [
+      874
     ],
-    "c377a04b": [
-      361
+    "e03ae89c": [
+      383
     ],
-    "cd86001c": [
-      904
+    "ed28e63f": [
+      20
     ],
-    "cefd3b42": [
-      144
-    ],
-    "f061dc6e": [
-      786
-    ],
-    "f485c943": [
-      887
+    "fd27a6e5": [
+      971
     ],
     "styles": [
       48,
@@ -87,12 +87,21 @@
     ]
   },
   "assets": {
+    "20": {
+      "js": [
+        {
+          "file": "assets/js/ed28e63f.9526f64d.js",
+          "hash": "66bcec01b50fad4d",
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/ed28e63f.9526f64d.js"
+        }
+      ]
+    },
     "48": {
       "js": [
         {
           "file": "assets/js/a94703ab.43b97821.js",
           "hash": "2a18dd4ed285827a",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/a94703ab.43b97821.js"
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/a94703ab.43b97821.js"
         }
       ]
     },
@@ -101,16 +110,25 @@
         {
           "file": "assets/js/a7bd4aaa.29ba2a73.js",
           "hash": "fd17bd2e74649165",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/a7bd4aaa.29ba2a73.js"
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/a7bd4aaa.29ba2a73.js"
         }
       ]
     },
-    "144": {
+    "173": {
       "js": [
         {
-          "file": "assets/js/cefd3b42.9d9fca95.js",
-          "hash": "82df21c36b74446e",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/cefd3b42.9d9fca95.js"
+          "file": "assets/js/3036dade.586d0271.js",
+          "hash": "431ef34ace347dfa",
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/3036dade.586d0271.js"
+        }
+      ]
+    },
+    "195": {
+      "js": [
+        {
+          "file": "assets/js/408452af.b669e7cf.js",
+          "hash": "e5d4a43b28c7826b",
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/408452af.b669e7cf.js"
         }
       ]
     },
@@ -119,43 +137,52 @@
         {
           "file": "assets/js/237.9a9ec583.js",
           "hash": "3b697d8764b39717",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/237.9a9ec583.js"
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/237.9a9ec583.js"
         }
       ]
     },
     "282": {
       "js": [
         {
-          "file": "assets/js/762ee5fe.bf8f1845.js",
-          "hash": "082b091840754939",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/762ee5fe.bf8f1845.js"
+          "file": "assets/js/a814d049.7a4563e1.js",
+          "hash": "c1420b3cea3911e8",
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/a814d049.7a4563e1.js"
         }
       ]
     },
-    "335": {
+    "313": {
       "js": [
         {
-          "file": "assets/js/526560c9.41f2a777.js",
-          "hash": "95a7ff2e7ac8eb82",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/526560c9.41f2a777.js"
+          "file": "assets/js/902aa607.a9c0e107.js",
+          "hash": "7f9e7b59889221f0",
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/902aa607.a9c0e107.js"
+        }
+      ]
+    },
+    "351": {
+      "js": [
+        {
+          "file": "assets/js/10573051.971978e4.js",
+          "hash": "b2cbbae8a19f390b",
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/10573051.971978e4.js"
         }
       ]
     },
     "354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.cb1f207a.js",
-          "hash": "138ee7a39e1f37c3",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/runtime~main.cb1f207a.js"
+          "file": "assets/js/runtime~main.8d09f551.js",
+          "hash": "be7fad159e032006",
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/runtime~main.8d09f551.js"
         }
       ]
     },
-    "361": {
+    "383": {
       "js": [
         {
-          "file": "assets/js/c377a04b.101e5d8d.js",
-          "hash": "2e42e09b5d0dce4c",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/c377a04b.101e5d8d.js"
+          "file": "assets/js/e03ae89c.d5aa495c.js",
+          "hash": "74e1755ac6850d1b",
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/e03ae89c.d5aa495c.js"
         }
       ]
     },
@@ -164,7 +191,25 @@
         {
           "file": "assets/js/17896441.427b540b.js",
           "hash": "b3437a5edd50faf4",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/17896441.427b540b.js"
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/17896441.427b540b.js"
+        }
+      ]
+    },
+    "411": {
+      "js": [
+        {
+          "file": "assets/js/89b66dd7.26d65bb0.js",
+          "hash": "ef32bf1495f4ad40",
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/89b66dd7.26d65bb0.js"
+        }
+      ]
+    },
+    "425": {
+      "js": [
+        {
+          "file": "assets/js/b8e181dc.f40ccce8.js",
+          "hash": "d0fad2ad4183ee2f",
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/b8e181dc.f40ccce8.js"
         }
       ]
     },
@@ -173,52 +218,25 @@
         {
           "file": "assets/js/436.8eed20d6.js",
           "hash": "7a0e1d0337165213",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/436.8eed20d6.js"
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/436.8eed20d6.js"
         }
       ]
     },
-    "437": {
+    "454": {
       "js": [
         {
-          "file": "assets/js/219a29c5.40283fc3.js",
-          "hash": "5fc08b60c9f93a15",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/219a29c5.40283fc3.js"
+          "file": "assets/js/9864bd5a.2ee60cfa.js",
+          "hash": "86d4a52af3ca08b1",
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/9864bd5a.2ee60cfa.js"
         }
       ]
     },
-    "513": {
+    "622": {
       "js": [
         {
-          "file": "assets/js/c2c69a6b.c81da2d4.js",
-          "hash": "62fe40a81784fb30",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/c2c69a6b.c81da2d4.js"
-        }
-      ]
-    },
-    "528": {
-      "js": [
-        {
-          "file": "assets/js/15bb2f12.e2595829.js",
-          "hash": "1910e2a664c875cc",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/15bb2f12.e2595829.js"
-        }
-      ]
-    },
-    "565": {
-      "js": [
-        {
-          "file": "assets/js/a8c771fe.e943c8bb.js",
-          "hash": "92349597bbf31df3",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/a8c771fe.e943c8bb.js"
-        }
-      ]
-    },
-    "621": {
-      "js": [
-        {
-          "file": "assets/js/30648dd9.0b01abc2.js",
-          "hash": "ebafdab850a8521a",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/30648dd9.0b01abc2.js"
+          "file": "assets/js/2fadd4c3.811f5b8f.js",
+          "hash": "3479b9297da9f55b",
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/2fadd4c3.811f5b8f.js"
         }
       ]
     },
@@ -227,7 +245,7 @@
         {
           "file": "assets/js/5e95c892.92937cb1.js",
           "hash": "90a2cac4c988b43c",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/5e95c892.92937cb1.js"
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/5e95c892.92937cb1.js"
         }
       ]
     },
@@ -236,43 +254,25 @@
         {
           "file": "assets/js/aba21aa0.38e97200.js",
           "hash": "87ab17d07effd2b1",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/aba21aa0.38e97200.js"
-        }
-      ]
-    },
-    "786": {
-      "js": [
-        {
-          "file": "assets/js/f061dc6e.3d82524e.js",
-          "hash": "ac756f412267ccb7",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/f061dc6e.3d82524e.js"
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/aba21aa0.38e97200.js"
         }
       ]
     },
     "792": {
       "js": [
         {
-          "file": "assets/js/main.f23ade46.js",
-          "hash": "b9ae505f563c7784",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/main.f23ade46.js"
+          "file": "assets/js/main.ae8f44d6.js",
+          "hash": "9f5e33066b87d309",
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/main.ae8f44d6.js"
         }
       ]
     },
-    "851": {
+    "866": {
       "js": [
         {
-          "file": "assets/js/bdcc1c93.baf782f9.js",
-          "hash": "a004b05ce5a6f901",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/bdcc1c93.baf782f9.js"
-        }
-      ]
-    },
-    "865": {
-      "js": [
-        {
-          "file": "assets/js/82bc0b29.5816a39f.js",
-          "hash": "3750c5b340466438",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/82bc0b29.5816a39f.js"
+          "file": "assets/js/7f14494d.37d35049.js",
+          "hash": "ed4e71a9d799e8a3",
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/7f14494d.37d35049.js"
         }
       ]
     },
@@ -281,25 +281,25 @@
         {
           "file": "assets/css/styles.a9c2afae.css",
           "hash": "2762a77d380bf040",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/css/styles.a9c2afae.css"
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/css/styles.a9c2afae.css"
         }
       ]
     },
-    "887": {
+    "874": {
       "js": [
         {
-          "file": "assets/js/f485c943.1a2e2f48.js",
-          "hash": "d18e4f3e82135446",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/f485c943.1a2e2f48.js"
+          "file": "assets/js/c46ab07d.c35910b5.js",
+          "hash": "8397108130ac4159",
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/c46ab07d.c35910b5.js"
         }
       ]
     },
-    "904": {
+    "971": {
       "js": [
         {
-          "file": "assets/js/cd86001c.ac10d980.js",
-          "hash": "2ce4ee8d183d60f9",
-          "publicPath": "/teleinformatyka-wikipedia/en/assets/js/cd86001c.ac10d980.js"
+          "file": "assets/js/fd27a6e5.29ac1ac7.js",
+          "hash": "4d3744340eb5a185",
+          "publicPath": "/teleinformatyka-wikipedia/pl/assets/js/fd27a6e5.29ac1ac7.js"
         }
       ]
     }

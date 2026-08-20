@@ -8,26 +8,30 @@ export default {
   "tagline": "Kompleksowa encyklopedia teleinformatyki / Comprehensive Teleinformatics Encyclopedia",
   "favicon": "img/favicon.ico",
   "url": "https://bartoszosiej.github.io",
-  "baseUrl": "/teleinformatyka-wikipedia/en/",
+  "baseUrl": "/teleinformatyka-wikipedia/pl/",
   "organizationName": "BartoszOsiej",
   "projectName": "teleinformatyka-wikipedia",
   "trailingSlash": false,
   "i18n": {
-    "defaultLocale": "pl",
+    "defaultLocale": "en",
     "locales": [
-      "pl",
-      "en"
+      "en",
+      "pl"
     ],
     "localeConfigs": {
-      "pl": {
-        "htmlLang": "pl-PL"
-      },
       "en": {
-        "htmlLang": "en-US"
+        "htmlLang": "en-US",
+        "label": "English"
+      },
+      "pl": {
+        "htmlLang": "pl-PL",
+        "label": "Polski"
       }
     },
     "path": "i18n"
   },
+  "onBrokenLinks": "throw",
+  "onBrokenAnchors": "warn",
   "presets": [
     [
       "classic",
@@ -35,7 +39,7 @@ export default {
         "docs": {
           "sidebarPath": "./sidebars.ts",
           "routeBasePath": "/",
-          "editUrl": "https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/main/"
+          "editUrl": "https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/master/"
         },
         "blog": false,
         "theme": {
@@ -53,7 +57,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "mainSidebar",
           "position": "left",
-          "label": "📖 Dokumentacja"
+          "label": "📖 Docs"
         },
         {
           "type": "localeDropdown",
@@ -90,7 +94,7 @@ export default {
           ]
         },
         {
-          "title": "More",
+          "title": "Więcej",
           "items": [
             {
               "label": "Bezpieczeństwo",
@@ -369,8 +373,6 @@ export default {
     "experimental_vcs": {},
     "experimental_router": "browser"
   },
-  "onBrokenLinks": "throw",
-  "onBrokenAnchors": "warn",
   "onDuplicateRoutes": "warn",
   "staticDirectories": [
     "static"

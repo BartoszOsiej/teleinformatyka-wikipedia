@@ -1,0 +1,26 @@
+{
+  "link.title.Documentation": {
+    "message": "Dokumentacja"
+  },
+  "link.item.label.Networking": {
+    "message": "Sieci komputerowe"
+  },
+  "link.item.label.Telecom": {
+    "message": "Telekomunikacja"
+  },
+  "link.item.label.Fiber Optics": {
+    "message": "Światłowody"
+  },
+  "link.title.More": {
+    "message": "Więcej"
+  },
+  "link.item.label.Security": {
+    "message": "Bezpieczeństwo"
+  },
+  "link.item.label.Certifications": {
+    "message": "Certyfikaty"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub"
+  }
+}

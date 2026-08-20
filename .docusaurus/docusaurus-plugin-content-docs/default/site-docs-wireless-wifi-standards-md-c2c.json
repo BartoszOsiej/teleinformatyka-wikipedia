@@ -1,14 +1,14 @@
 {
   "id": "wireless/wifi-standards",
   "title": "📶 WiFi Standards — IEEE 802.11",
-  "description": "PL: Standardy bezprzewodowej sieci lokalnej.",
+  "description": "---",
   "source": "@site/docs/wireless/wifi-standards.md",
   "sourceDirName": "wireless",
   "slug": "/wireless/wifi-standards",
-  "permalink": "/teleinformatyka-wikipedia/en/wireless/wifi-standards",
+  "permalink": "/teleinformatyka-wikipedia/wireless/wifi-standards",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/main/docs/wireless/wifi-standards.md",
+  "editUrl": "https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/master/docs/wireless/wifi-standards.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,10 +18,10 @@
   "sidebar": "mainSidebar",
   "previous": {
     "title": "💡 Fiber Optics — Światłowody",
-    "permalink": "/teleinformatyka-wikipedia/en/fiber-optics/fundamentals"
+    "permalink": "/teleinformatyka-wikipedia/fiber-optics/fundamentals"
   },
   "next": {
     "title": "📶 WiFi Standards — IEEE 802.11",
-    "permalink": "/teleinformatyka-wikipedia/en/wireless/wifi-standards"
+    "permalink": "/teleinformatyka-wikipedia/wireless/wifi-standards"
   }
 }

@@ -29,7 +29,7 @@ capture and interactively browse traffic running on a computer network.
 3. Traffic appears in real-time
 4. Click **Stop** when done
 
-### Display Filters
+### Filtry wyświetlania
 
 | Filter | Description |
 |--------|-------------|

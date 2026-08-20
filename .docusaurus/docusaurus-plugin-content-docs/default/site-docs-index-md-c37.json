@@ -5,10 +5,10 @@
   "source": "@site/docs/index.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/teleinformatyka-wikipedia/en/",
+  "permalink": "/teleinformatyka-wikipedia/",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/main/docs/index.md",
+  "editUrl": "https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/master/docs/index.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -19,6 +19,6 @@
   "sidebar": "mainSidebar",
   "next": {
     "title": "🌐 Model OSI — Open Systems Interconnection",
-    "permalink": "/teleinformatyka-wikipedia/en/networking/osi-model"
+    "permalink": "/teleinformatyka-wikipedia/networking/osi-model"
   }
 }

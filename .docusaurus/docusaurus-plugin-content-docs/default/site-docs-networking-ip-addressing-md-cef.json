@@ -1,14 +1,14 @@
 {
   "id": "networking/ip-addressing",
   "title": "📍 IP Addressing — Adresowanie IP",
-  "description": "PL: Schemat adresowania urządzeń w sieciach IP.",
+  "description": "---",
   "source": "@site/docs/networking/ip-addressing.md",
   "sourceDirName": "networking",
   "slug": "/networking/ip-addressing",
-  "permalink": "/teleinformatyka-wikipedia/en/networking/ip-addressing",
+  "permalink": "/teleinformatyka-wikipedia/networking/ip-addressing",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/main/docs/networking/ip-addressing.md",
+  "editUrl": "https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/master/docs/networking/ip-addressing.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -18,10 +18,10 @@
   "sidebar": "mainSidebar",
   "previous": {
     "title": "🌐 TCP/IP — Transmission Control Protocol / Internet Protocol",
-    "permalink": "/teleinformatyka-wikipedia/en/networking/tcp-ip"
+    "permalink": "/teleinformatyka-wikipedia/networking/tcp-ip"
   },
   "next": {
     "title": "🌐 Routing — Kierowanie ruchem",
-    "permalink": "/teleinformatyka-wikipedia/en/networking/routing"
+    "permalink": "/teleinformatyka-wikipedia/networking/routing"
   }
 }

@@ -15,13 +15,16 @@ const config: Config = {
   trailingSlash: false,
 
   i18n: {
-    defaultLocale: 'pl',
-    locales: ['pl', 'en'],
+    defaultLocale: 'en',
+    locales: ['en', 'pl'],
     localeConfigs: {
-      pl: { htmlLang: 'pl-PL' },
-      en: { htmlLang: 'en-US' },
+      en: { htmlLang: 'en-US', label: 'English' },
+      pl: { htmlLang: 'pl-PL', label: 'Polski' },
     },
   },
+
+  onBrokenLinks: 'throw',
+  onBrokenAnchors: 'warn',
 
   presets: [
     [
@@ -30,7 +33,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           routeBasePath: '/',
-          editUrl: 'https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/main/',
+          editUrl: 'https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/master/',
         },
         blog: false,
         theme: {
@@ -49,7 +52,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'mainSidebar',
           position: 'left',
-          label: '📖 Dokumentacja',
+          label: '📖 Docs',
         },
         {
           type: 'localeDropdown',
@@ -66,18 +69,18 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Dokumentacja',
+          title: 'Documentation',
           items: [
-            { label: 'Sieci komputerowe', to: '/networking/osi-model' },
-            { label: 'Telekomunikacja', to: '/telecom/voip-sip' },
-            { label: 'Światłowody', to: '/fiber-optics/fundamentals' },
+            { label: 'Networking', to: '/networking/osi-model' },
+            { label: 'Telecom', to: '/telecom/voip-sip' },
+            { label: 'Fiber Optics', to: '/fiber-optics/fundamentals' },
           ],
         },
         {
           title: 'More',
           items: [
-            { label: 'Bezpieczeństwo', to: '/security/firewalls' },
-            { label: 'Certyfikaty', to: '/certifications/cisco' },
+            { label: 'Security', to: '/security/firewalls' },
+            { label: 'Certifications', to: '/certifications/cisco' },
             { label: 'GitHub', href: 'https://github.com/BartoszOsiej/teleinformatyka-wikipedia' },
           ],
         },
