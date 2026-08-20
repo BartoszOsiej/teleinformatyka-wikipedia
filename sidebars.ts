@@ -6,6 +6,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '🌐 Sieci komputerowe',
+      link: { type: 'doc', id: 'networking/osi-model' },
       items: [
         'networking/osi-model',
         'networking/tcp-ip',
@@ -17,6 +18,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '📡 Telekomunikacja',
+      link: { type: 'doc', id: 'telecom/voip-sip' },
       items: [
         'telecom/voip-sip',
       ],
@@ -24,6 +26,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '💡 Światłowody',
+      link: { type: 'doc', id: 'fiber-optics/fundamentals' },
       items: [
         'fiber-optics/fundamentals',
       ],
@@ -31,6 +34,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '📶 Bezprzewodowe',
+      link: { type: 'doc', id: 'wireless/wifi-standards' },
       items: [
         'wireless/wifi-standards',
       ],
@@ -38,6 +42,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '🔐 Bezpieczeństwo',
+      link: { type: 'doc', id: 'security/firewalls' },
       items: [
         'security/firewalls',
       ],
@@ -45,6 +50,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '🛠️ Narzędzia',
+      link: { type: 'doc', id: 'tools/wireshark' },
       items: [
         'tools/wireshark',
       ],
@@ -52,6 +58,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '🎓 Certyfikaty',
+      link: { type: 'doc', id: 'certifications/cisco' },
       items: [
         'certifications/cisco',
       ],
@@ -59,6 +66,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '🎯 Scenariusze',
+      link: { type: 'doc', id: 'scenarios/network-design' },
       items: [
         'scenarios/network-design',
       ],

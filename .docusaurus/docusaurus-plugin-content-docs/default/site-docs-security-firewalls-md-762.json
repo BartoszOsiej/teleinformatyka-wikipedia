@@ -1,0 +1,27 @@
+{
+  "id": "security/firewalls",
+  "title": "🔥 Firewalls — Zapory sieciowe",
+  "description": "PL: Filtryujące urządzenia sieciowe chroniące przed nieautoryzowanym dostępem.",
+  "source": "@site/docs/security/firewalls.md",
+  "sourceDirName": "security",
+  "slug": "/security/firewalls",
+  "permalink": "/teleinformatyka-wikipedia/en/security/firewalls",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/main/docs/security/firewalls.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "📶 WiFi Standards — IEEE 802.11",
+    "permalink": "/teleinformatyka-wikipedia/en/wireless/wifi-standards"
+  },
+  "next": {
+    "title": "🔥 Firewalls — Zapory sieciowe",
+    "permalink": "/teleinformatyka-wikipedia/en/security/firewalls"
+  }
+}

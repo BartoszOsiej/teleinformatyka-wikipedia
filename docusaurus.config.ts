@@ -77,12 +77,12 @@ const config: Config = {
           title: 'More',
           items: [
             { label: 'Bezpieczeństwo', to: '/security/firewalls' },
-            { label: 'Certyfikaty', to: '/certifications/' },
+            { label: 'Certyfikaty', to: '/certifications/cisco' },
             { label: 'GitHub', href: 'https://github.com/BartoszOsiej/teleinformatyka-wikipedia' },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Bartosz Osiej. Wykonane z ❤️ i 🤖 Generated with Codebuff.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Bartosz Osiej.`,
     },
     prism: {
       theme: prismThemes.github,

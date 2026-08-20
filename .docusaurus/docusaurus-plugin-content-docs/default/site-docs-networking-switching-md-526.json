@@ -1,0 +1,27 @@
+{
+  "id": "networking/switching",
+  "title": "🔌 Switching — Przełączanie",
+  "description": "PL: Warstwa 2 — przełączanie ramek Ethernet w sieci lokalnej.",
+  "source": "@site/docs/networking/switching.md",
+  "sourceDirName": "networking",
+  "slug": "/networking/switching",
+  "permalink": "/teleinformatyka-wikipedia/en/networking/switching",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/main/docs/networking/switching.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "🌐 Routing — Kierowanie ruchem",
+    "permalink": "/teleinformatyka-wikipedia/en/networking/routing"
+  },
+  "next": {
+    "title": "📞 VoIP & SIP — Voice over IP",
+    "permalink": "/teleinformatyka-wikipedia/en/telecom/voip-sip"
+  }
+}

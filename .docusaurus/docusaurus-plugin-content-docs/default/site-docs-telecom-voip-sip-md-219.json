@@ -1,0 +1,27 @@
+{
+  "id": "telecom/voip-sip",
+  "title": "📞 VoIP & SIP — Voice over IP",
+  "description": "PL: Transmisja głosu przez sieci IP i protokół sygnalizacji sesji.",
+  "source": "@site/docs/telecom/voip-sip.md",
+  "sourceDirName": "telecom",
+  "slug": "/telecom/voip-sip",
+  "permalink": "/teleinformatyka-wikipedia/en/telecom/voip-sip",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/main/docs/telecom/voip-sip.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "🔌 Switching — Przełączanie",
+    "permalink": "/teleinformatyka-wikipedia/en/networking/switching"
+  },
+  "next": {
+    "title": "📞 VoIP & SIP — Voice over IP",
+    "permalink": "/teleinformatyka-wikipedia/en/telecom/voip-sip"
+  }
+}

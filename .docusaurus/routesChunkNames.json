@@ -1,0 +1,67 @@
+{
+  "/teleinformatyka-wikipedia/en/-7bf": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/teleinformatyka-wikipedia/en/-0b7": {
+    "__comp": "a7bd4aaa",
+    "__props": "f485c943"
+  },
+  "/teleinformatyka-wikipedia/en/-85b": {
+    "__comp": "a94703ab"
+  },
+  "/teleinformatyka-wikipedia/en/certifications/cisco-c27": {
+    "__comp": "17896441",
+    "content": "15bb2f12"
+  },
+  "/teleinformatyka-wikipedia/en/fiber-optics/fundamentals-372": {
+    "__comp": "17896441",
+    "content": "a8c771fe"
+  },
+  "/teleinformatyka-wikipedia/en/networking/ip-addressing-3df": {
+    "__comp": "17896441",
+    "content": "cefd3b42"
+  },
+  "/teleinformatyka-wikipedia/en/networking/osi-model-022": {
+    "__comp": "17896441",
+    "content": "82bc0b29"
+  },
+  "/teleinformatyka-wikipedia/en/networking/routing-e29": {
+    "__comp": "17896441",
+    "content": "bdcc1c93"
+  },
+  "/teleinformatyka-wikipedia/en/networking/switching-c6c": {
+    "__comp": "17896441",
+    "content": "526560c9"
+  },
+  "/teleinformatyka-wikipedia/en/networking/tcp-ip-426": {
+    "__comp": "17896441",
+    "content": "30648dd9"
+  },
+  "/teleinformatyka-wikipedia/en/scenarios/network-design-189": {
+    "__comp": "17896441",
+    "content": "f061dc6e"
+  },
+  "/teleinformatyka-wikipedia/en/security/firewalls-2f1": {
+    "__comp": "17896441",
+    "content": "762ee5fe"
+  },
+  "/teleinformatyka-wikipedia/en/telecom/voip-sip-e3a": {
+    "__comp": "17896441",
+    "content": "219a29c5"
+  },
+  "/teleinformatyka-wikipedia/en/tools/wireshark-759": {
+    "__comp": "17896441",
+    "content": "cd86001c"
+  },
+  "/teleinformatyka-wikipedia/en/wireless/wifi-standards-8e9": {
+    "__comp": "17896441",
+    "content": "c2c69a6b"
+  },
+  "/teleinformatyka-wikipedia/en/-836": {
+    "__comp": "17896441",
+    "content": "c377a04b"
+  }
+}

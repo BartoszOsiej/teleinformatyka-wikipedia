@@ -1,0 +1,27 @@
+{
+  "id": "scenarios/network-design",
+  "title": "🎯 Network Design — Projektowanie sieci",
+  "description": "PL: Praktyczne scenariusze projektowania sieci w firmach.",
+  "source": "@site/docs/scenarios/network-design.md",
+  "sourceDirName": "scenarios",
+  "slug": "/scenarios/network-design",
+  "permalink": "/teleinformatyka-wikipedia/en/scenarios/network-design",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/main/docs/scenarios/network-design.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "🎓 Cisco Certifications — Ścieżka certyfikacyjna",
+    "permalink": "/teleinformatyka-wikipedia/en/certifications/cisco"
+  },
+  "next": {
+    "title": "🎯 Network Design — Projektowanie sieci",
+    "permalink": "/teleinformatyka-wikipedia/en/scenarios/network-design"
+  }
+}

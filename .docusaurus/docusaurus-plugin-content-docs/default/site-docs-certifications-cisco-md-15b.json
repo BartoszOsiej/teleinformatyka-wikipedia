@@ -1,0 +1,27 @@
+{
+  "id": "certifications/cisco",
+  "title": "🎓 Cisco Certifications — Ścieżka certyfikacyjna",
+  "description": "PL: Kompletny przewodnik po certyfikacjach Cisco.",
+  "source": "@site/docs/certifications/cisco.md",
+  "sourceDirName": "certifications",
+  "slug": "/certifications/cisco",
+  "permalink": "/teleinformatyka-wikipedia/en/certifications/cisco",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/main/docs/certifications/cisco.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "🔍 Wireshark — Analizator protokołów",
+    "permalink": "/teleinformatyka-wikipedia/en/tools/wireshark"
+  },
+  "next": {
+    "title": "🎓 Cisco Certifications — Ścieżka certyfikacyjna",
+    "permalink": "/teleinformatyka-wikipedia/en/certifications/cisco"
+  }
+}

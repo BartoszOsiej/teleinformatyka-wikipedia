@@ -1,0 +1,31 @@
+{
+  "defaultLocale": "pl",
+  "locales": [
+    "pl",
+    "en"
+  ],
+  "path": "i18n",
+  "currentLocale": "en",
+  "localeConfigs": {
+    "pl": {
+      "label": "Polski (Polska)",
+      "direction": "ltr",
+      "htmlLang": "pl-PL",
+      "calendar": "gregory",
+      "path": "pl",
+      "translate": true,
+      "url": "https://bartoszosiej.github.io",
+      "baseUrl": "/teleinformatyka-wikipedia/"
+    },
+    "en": {
+      "label": "American English",
+      "direction": "ltr",
+      "htmlLang": "en-US",
+      "calendar": "gregory",
+      "path": "en",
+      "translate": false,
+      "url": "https://bartoszosiej.github.io",
+      "baseUrl": "/teleinformatyka-wikipedia/en/"
+    }
+  }
+}

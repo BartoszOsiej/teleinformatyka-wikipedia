@@ -1,0 +1,27 @@
+{
+  "id": "tools/wireshark",
+  "title": "🔍 Wireshark — Analizator protokołów",
+  "description": "PL: Narzędzie do przechwytywania i analizy ruchu sieciowego.",
+  "source": "@site/docs/tools/wireshark.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/wireshark",
+  "permalink": "/teleinformatyka-wikipedia/en/tools/wireshark",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BartoszOsiej/teleinformatyka-wikipedia/tree/main/docs/tools/wireshark.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "🔥 Firewalls — Zapory sieciowe",
+    "permalink": "/teleinformatyka-wikipedia/en/security/firewalls"
+  },
+  "next": {
+    "title": "🔍 Wireshark — Analizator protokołów",
+    "permalink": "/teleinformatyka-wikipedia/en/tools/wireshark"
+  }
+}
