@@ -12,19 +12,13 @@ const sidebars: SidebarsConfig = {
         'networking/ip-addressing',
         'networking/routing',
         'networking/switching',
-        'networking/dns-dhcp',
-        'networking/load-balancing',
       ],
     },
     {
       type: 'category',
       label: '📡 Telekomunikacja',
       items: [
-        'telecom/pstn-isdn',
         'telecom/voip-sip',
-        'telecom/sdh-sonet',
-        'telecom/multiplexing',
-        'telecom/qos',
       ],
     },
     {
@@ -32,10 +26,6 @@ const sidebars: SidebarsConfig = {
       label: '💡 Światłowody',
       items: [
         'fiber-optics/fundamentals',
-        'fiber-optics/cables-connectors',
-        'fiber-optics/testing-otdr',
-        'fiber-optics/wdm-dwdm',
-        'fiber-optics/fusion-splicing',
       ],
     },
     {
@@ -43,10 +33,6 @@ const sidebars: SidebarsConfig = {
       label: '📶 Bezprzewodowe',
       items: [
         'wireless/wifi-standards',
-        'wireless/lte-4g',
-        'wireless/5g-nr',
-        'wireless/microwave-links',
-        'wireless/antennas',
       ],
     },
     {
@@ -54,20 +40,6 @@ const sidebars: SidebarsConfig = {
       label: '🔐 Bezpieczeństwo',
       items: [
         'security/firewalls',
-        'security/vpn',
-        'security/encryption',
-        'security/ids-ips',
-        'security/zero-trust',
-      ],
-    },
-    {
-      type: 'category',
-      label: '📋 Protokoły',
-      items: [
-        'protocols/http-https',
-        'protocols/bgp-ospf',
-        'protocols/snmp-netconf',
-        'protocols/mpls-vpn',
       ],
     },
     {
@@ -75,9 +47,6 @@ const sidebars: SidebarsConfig = {
       label: '🛠️ Narzędzia',
       items: [
         'tools/wireshark',
-        'tools/nmap',
-        'tools/pfsense',
-        'tools/monitoring',
       ],
     },
     {
@@ -85,9 +54,6 @@ const sidebars: SidebarsConfig = {
       label: '🎓 Certyfikaty',
       items: [
         'certifications/cisco',
-        'certifications/comptia',
-        'certifications/juniper',
-        'certifications/cloud',
       ],
     },
     {
@@ -95,9 +61,6 @@ const sidebars: SidebarsConfig = {
       label: '🎯 Scenariusze',
       items: [
         'scenarios/network-design',
-        'scenarios/troubleshooting',
-        'scenarios/migration',
-        'scenarios/remote-work',
       ],
     },
   ],
