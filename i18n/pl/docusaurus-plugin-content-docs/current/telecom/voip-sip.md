@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 📞 VoIP i SIP
+# 📞 VoIP & SIP — Voice over IP
 
 
 ---
@@ -118,12 +118,12 @@ Replaces traditional PRI/T1 lines with IP-based connectivity.
 
 | Parameter | Recommended |
 |-----------|-------------|
-| Latency | < 150ms one-way |
-| Jitter | < 30ms |
-| Packet Loss | < 1% |
+| Latency | &lt; 150ms one-way |
+| Jitter | &lt; 30ms |
+| Packet Loss | &lt; 1% |
 | MOS Score | ≥ 4.0 |
 
-### DSCP Markings
+### Znaczniki DSCP
 
 | Traffic | DSCP Value | Per-Hop Behavior |
 |---------|-----------|------------------|

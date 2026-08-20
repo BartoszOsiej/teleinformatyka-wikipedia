@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 💡 Światłowody
+# 💡 Fiber Optics
 
 
 ---
@@ -16,7 +16,7 @@ sidebar_position: 1
 | Core diameter | 8-10 μm |
 | Cladding | 125 μm |
 | Wavelength | 1310 nm / 1550 nm |
-| Bandwidth | Very high (`>10` Gbps over 100km) |
+| Bandwidth | Very high (`&gt;10` Gbps over 100km) |
 | Distance | Up to 80+ km without amplification |
 | Cost | Higher (lasers, tighter tolerances) |
 | Use | WAN, telecom, data centers |
@@ -37,7 +37,7 @@ sidebar_position: 1
 |---------|-------------|------------|
 | Core size | 9 μm | 50-62.5 μm |
 | Light source | Laser (VCSEL/Fabry-Perot) | LED/VCSEL |
-| Distance | Long (`>1` km) | Short (`<2` km) |
+| Distance | Long (`&gt;1` km) | Short (`&lt;2` km) |
 | Cost | Higher | Lower |
 | Alignment | Tighter | Easier |
 | Application | WAN, carrier | LAN, data center |

@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 🌐 Routing
+# 🌐 Routing — Kierowanie ruchem
 
 
 ---
@@ -95,7 +95,7 @@ ip route 0.0.0.0 0.0.0.0 192.168.1.1
 Down → Init → 2-Way → ExStart → Exchange → Loading → Full
 ```
 
-### OSPF Configuration Example (Cisco)
+### Konfiguracja OSPF Example (Cisco)
 
 ```
 router ospf 1
@@ -121,7 +121,7 @@ router ospf 1
 | **eBGP** | Between different ASes (AD=20) |
 | **iBGP** | Within the same AS (AD=200) |
 
-### BGP Path Selection (simplified)
+### Wybór ścieżki BGP (simplified)
 
 1. **Weight** (Cisco, local)
 2. **LOCAL_PREF** (higher = better)
@@ -133,7 +133,7 @@ router ospf 1
 8. **Closest IGP next-hop**
 9. **Router ID** (lowest = winner)
 
-### BGP Configuration Example
+### Konfiguracja BGP Example
 
 ```
 router bgp 65001

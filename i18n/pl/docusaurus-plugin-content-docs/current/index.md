@@ -3,63 +3,63 @@ slug: /
 sidebar_position: 1
 ---
 
-# 📡 Teleinformatyka Wikipedia
+# 📡 Teleinformatics Wikipedia
 
-**Kompleksowa encyklopedia wiedzy teleinformatycznej — dwujęzyczna PL/EN.**
+**Comprehensive teleinformatics knowledge encyclopedia — bilingual PL/EN.**
 
-> *Kompletny przewodnik po wszystkim, co może wymagać zawód teleinformatyka w pracy — od podstaw sieci po zaawansowaną architekturę 5G.*
-
----
-
-## 📖 Co znajdziesz
-
-### 🌐 [Sieci komputerowe](/networking/osi-model)
-Model OSI, TCP/IP, adresowanie IP, routing, switching, DNS/DHCP — od podstaw do zaawansowanych.
-
-### 📡 [Telekomunikacja](/telecom/voip-sip)
-PSTN, ISDN, VoIP, SIP, SDH/SONET, multipleksacja, QoS — wszystko, z czym pracuje teleinformatyk.
-
-### 💡 [Światłowody](/fiber-optics/fundamentals)
-Podstawy, kable, złączki, pomiar OTDR, WDM/DWDM, spajanie fuzji — kompletna wiedza o światłowodach.
-
-### 📶 [Bezprzewodowe](/wireless/wifi-standards)
-WiFi (802.11a/b/g/n/ac/ax), LTE/4G, 5G NR, łącza mikrofalowe, anteny — wszystkie formy łączności bezprzewodowej.
-
-### 🔐 [Bezpieczeństwo](/security/firewalls)
-Firewalls, VPN, szyfrowanie, IDS/IPS, zero trust — bezpieczeństwo to zadanie każdego.
-
-### 🛠️ [Narzędzia](/tools/wireshark)
-Wireshark, Nmap, pfSense, monitoring — narzędzia codziennej pracy.
-
-### 🎓 [Certyfikaty](/certifications/cisco)
-Cisco CCNA/CCNP/CCIE, CompTIA Network+/Security+, Juniper, certyfikaty chmurowe — ścieżki kariery.
-
-### 🎯 [Scenariusze](/scenarios/network-design)
-Projektowanie sieci, troubleshooting, migracja, praca zdalna — realne sytuacje w pracy.
+> *A complete guide to everything a telecommunications engineer might need in their work — from networking basics to advanced 5G architecture.*
 
 ---
 
-## 🚀 Szybki start
+## 📖 What you'll find
 
-Wybierz punkt startu:
+### 🌐 [Networking](/networking/osi-model)
+OSI model, TCP/IP, IP addressing, routing, switching, DNS/DHCP — from basics to advanced.
 
-- **[Sieci komputerowe](/networking/osi-model)** — zacznij od podstaw modelu OSI
-- **[Certyfikaty](/certifications/cisco)** — zaplanuj ścieżkę kariery
-- **[Scenariusze](/scenarios/network-design)** — przejdź do praktycznych przykładów
-- **[Narzędzia](/tools/wireshark)** — poznaj narzędzia codziennej pracy
+### 📡 [Telecom](/telecom/voip-sip)
+PSTN, ISDN, VoIP, SIP, SDH/SONET, multiplexing, QoS — everything a telecom engineer works with daily.
+
+### 💡 [Fiber Optics](/fiber-optics/fundamentals)
+Fundamentals, cables, connectors, OTDR testing, WDM/DWDM, fusion splicing — complete fiber knowledge.
+
+### 📶 [Wireless](/wireless/wifi-standards)
+WiFi (802.11a/b/g/n/ac/ax), LTE/4G, 5G NR, microwave links, antennas — wireless in all forms.
+
+### 🔐 [Security](/security/firewalls)
+Firewalls, VPN, encryption, IDS/IPS, zero trust — security is everyone's job now.
+
+### 🛠️ [Tools](/tools/wireshark)
+Wireshark, Nmap, pfSense, monitoring — tools of the trade.
+
+### 🎓 [Certifications](/certifications/cisco)
+Cisco CCNA/CCNP/CCIE, CompTIA Network+/Security+, Juniper, cloud certs — career paths and study guides.
+
+### 🎯 [Scenarios](/scenarios/network-design)
+Network design, troubleshooting, migration, remote work — real-world situations you'll face.
 
 ---
 
-## 📚 Struktura
+## 🚀 Quick Start
+
+Choose your starting point:
+
+- **[Networking](/networking/osi-model)** — start with the OSI model basics
+- **[Certifications](/certifications/cisco)** — plan your career path
+- **[Scenarios](/scenarios/network-design)** — jump to practical examples
+- **[Tools](/tools/wireshark)** — learn the tools of daily work
+
+---
+
+## 📚 Structure
 
 ```
 docs/
 ├── networking/          OSI, TCP/IP, routing, switching
 ├── telecom/             VoIP, SIP, SDH, QoS
-├── fiber-optics/        OTDR, WDM, spajanie
+├── fiber-optics/        OTDR, WDM, splicing
 ├── wireless/            WiFi, LTE, 5G
-├── security/            Firewalls, VPN, szyfrowanie
+├── security/            Firewalls, VPN, encryption
 ├── tools/               Wireshark, Nmap, pfSense
 ├── certifications/      Cisco, CompTIA, Juniper
-└── scenarios/           Projektowanie, troubleshooting, migracja
+└── scenarios/           Design, troubleshooting, migration
 ```

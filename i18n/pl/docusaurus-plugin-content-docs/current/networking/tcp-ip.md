@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 🌐 TCP/IP
+# 🌐 TCP/IP — Transmission Control Protocol / Internet Protocol
 
 
 ---
@@ -120,7 +120,7 @@ ARP Reply (unicast):      "192.168.1.10 is at aa:bb:cc:dd:ee:ff"
 
 Automatically assigns IP configuration to hosts.
 
-### DHCP DORA Process
+### Proces DHCP DORA
 
 | Step | Name | Description |
 |------|------|-------------|
@@ -129,7 +129,7 @@ Automatically assigns IP configuration to hosts.
 | 3 | **R**equest | Client requests the offered IP |
 | 4 | **A**cknowledge | Server confirms, lease begins |
 
-### DHCP Options
+### Opcje DHCP
 
 | Option | Description |
 |--------|-------------|
@@ -144,7 +144,7 @@ Automatically assigns IP configuration to hosts.
 
 ## 🇬🇧 DNS — Domain Name System
 
-### Record Types
+### Typy rekordów
 
 | Record | Purpose | Example |
 |--------|---------|---------|
@@ -158,7 +158,7 @@ Automatically assigns IP configuration to hosts.
 | **SRV** | Service location | `_sip._tcp.example.com → sip.example.com:5060` |
 | **SOA** | Start of Authority | Zone metadata |
 
-### DNS Hierarchy
+### Hierarchia DNS
 
 ```
 . (root)
@@ -172,7 +172,7 @@ Automatically assigns IP configuration to hosts.
 └── .net (TLD)
 ```
 
-### DNS Resolution Process
+### Proces rozwiązywania DNS
 
 1. Client queries local resolver (ISP or configured DNS)
 2. Resolver checks cache → if miss, queries root server

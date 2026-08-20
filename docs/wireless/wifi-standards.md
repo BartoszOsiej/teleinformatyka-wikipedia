@@ -140,10 +140,10 @@ Identifies overlapping BSS (Basic Service Sets) to reduce co-channel interferenc
 
 | Metric | Good | Acceptable | Poor |
 |--------|------|-----------|------|
-| RSSI | > -65 dBm | -65 to -75 dBm | < -75 dBm |
-| SNR | > 40 dB | 25-40 dB | < 25 dB |
-| Channel overlap | 0 APs | 1 AP | > 2 APs |
-| Retry rate | < 5% | 5-15% | > 15% |
+| RSSI | &gt; -65 dBm | -65 to -75 dBm | &lt; -75 dBm |
+| SNR | &gt; 40 dB | 25-40 dB | &lt; 25 dB |
+| Channel overlap | 0 APs | 1 AP | &gt; 2 APs |
+| Retry rate | &lt; 5% | 5-15% | &gt; 15% |
 
 ---
 

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 🔥 Zapory sieciowe (Firewalls)
+# 🔥 Firewalls — Zapory sieciowe
 
 
 ---

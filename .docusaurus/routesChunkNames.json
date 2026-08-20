@@ -1,28 +1,64 @@
 {
-  "/teleinformatyka-wikipedia/pl/-b5c": {
+  "/teleinformatyka-wikipedia/pl/-ee8": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/teleinformatyka-wikipedia/pl/-30d": {
+  "/teleinformatyka-wikipedia/pl/-a30": {
     "__comp": "a7bd4aaa",
     "__props": "c46ab07d"
   },
-  "/teleinformatyka-wikipedia/pl/-b58": {
+  "/teleinformatyka-wikipedia/pl/-bdc": {
     "__comp": "a94703ab"
   },
   "/teleinformatyka-wikipedia/pl/certifications/cisco-749": {
     "__comp": "17896441",
     "content": "fd27a6e5"
   },
+  "/teleinformatyka-wikipedia/pl/certifications/cloud-650": {
+    "__comp": "17896441",
+    "content": "7d653023"
+  },
+  "/teleinformatyka-wikipedia/pl/certifications/comptia-236": {
+    "__comp": "17896441",
+    "content": "b321a33e"
+  },
+  "/teleinformatyka-wikipedia/pl/certifications/juniper-546": {
+    "__comp": "17896441",
+    "content": "9c91b49a"
+  },
+  "/teleinformatyka-wikipedia/pl/fiber-optics/cables-connectors-f35": {
+    "__comp": "17896441",
+    "content": "d3861f93"
+  },
   "/teleinformatyka-wikipedia/pl/fiber-optics/fundamentals-a9a": {
     "__comp": "17896441",
     "content": "89b66dd7"
   },
+  "/teleinformatyka-wikipedia/pl/fiber-optics/fusion-splicing-d3e": {
+    "__comp": "17896441",
+    "content": "f3c4e94c"
+  },
+  "/teleinformatyka-wikipedia/pl/fiber-optics/testing-otdr-493": {
+    "__comp": "17896441",
+    "content": "e3b5ed8f"
+  },
+  "/teleinformatyka-wikipedia/pl/fiber-optics/wdm-dwdm-6d3": {
+    "__comp": "17896441",
+    "content": "3423815b"
+  },
+  "/teleinformatyka-wikipedia/pl/networking/dns-dhcp-fab": {
+    "__comp": "17896441",
+    "content": "78544677"
+  },
   "/teleinformatyka-wikipedia/pl/networking/ip-addressing-d85": {
     "__comp": "17896441",
     "content": "ed28e63f"
+  },
+  "/teleinformatyka-wikipedia/pl/networking/load-balancing-629": {
+    "__comp": "17896441",
+    "content": "720ee06c"
   },
   "/teleinformatyka-wikipedia/pl/networking/osi-model-119": {
     "__comp": "17896441",
@@ -40,21 +76,109 @@
     "__comp": "17896441",
     "content": "3036dade"
   },
+  "/teleinformatyka-wikipedia/pl/protocols/bgp-ospf-56e": {
+    "__comp": "17896441",
+    "content": "2a1073e3"
+  },
+  "/teleinformatyka-wikipedia/pl/protocols/http-https-609": {
+    "__comp": "17896441",
+    "content": "5e475203"
+  },
+  "/teleinformatyka-wikipedia/pl/protocols/mpls-vpn-83d": {
+    "__comp": "17896441",
+    "content": "ea25e4b5"
+  },
+  "/teleinformatyka-wikipedia/pl/protocols/snmp-netconf-365": {
+    "__comp": "17896441",
+    "content": "b2480e6f"
+  },
+  "/teleinformatyka-wikipedia/pl/scenarios/migration-121": {
+    "__comp": "17896441",
+    "content": "03eb82f1"
+  },
   "/teleinformatyka-wikipedia/pl/scenarios/network-design-fcd": {
     "__comp": "17896441",
     "content": "9864bd5a"
+  },
+  "/teleinformatyka-wikipedia/pl/scenarios/remote-work-437": {
+    "__comp": "17896441",
+    "content": "c03071a9"
+  },
+  "/teleinformatyka-wikipedia/pl/scenarios/troubleshooting-cc7": {
+    "__comp": "17896441",
+    "content": "129f3a75"
+  },
+  "/teleinformatyka-wikipedia/pl/security/encryption-78c": {
+    "__comp": "17896441",
+    "content": "5509608f"
   },
   "/teleinformatyka-wikipedia/pl/security/firewalls-0ce": {
     "__comp": "17896441",
     "content": "e03ae89c"
   },
+  "/teleinformatyka-wikipedia/pl/security/ids-ips-90c": {
+    "__comp": "17896441",
+    "content": "42467de2"
+  },
+  "/teleinformatyka-wikipedia/pl/security/vpn-d72": {
+    "__comp": "17896441",
+    "content": "fc96fddf"
+  },
+  "/teleinformatyka-wikipedia/pl/security/zero-trust-9e5": {
+    "__comp": "17896441",
+    "content": "9179e720"
+  },
+  "/teleinformatyka-wikipedia/pl/telecom/multiplexing-fb3": {
+    "__comp": "17896441",
+    "content": "e831296f"
+  },
+  "/teleinformatyka-wikipedia/pl/telecom/pstn-isdn-053": {
+    "__comp": "17896441",
+    "content": "42ca8824"
+  },
+  "/teleinformatyka-wikipedia/pl/telecom/qos-d09": {
+    "__comp": "17896441",
+    "content": "f359dd3b"
+  },
+  "/teleinformatyka-wikipedia/pl/telecom/sdh-sonet-aae": {
+    "__comp": "17896441",
+    "content": "8aae56af"
+  },
   "/teleinformatyka-wikipedia/pl/telecom/voip-sip-8d0": {
     "__comp": "17896441",
     "content": "10573051"
   },
+  "/teleinformatyka-wikipedia/pl/tools/monitoring-59c": {
+    "__comp": "17896441",
+    "content": "13f1dafd"
+  },
+  "/teleinformatyka-wikipedia/pl/tools/nmap-0a2": {
+    "__comp": "17896441",
+    "content": "df0f4b5d"
+  },
+  "/teleinformatyka-wikipedia/pl/tools/pfsense-724": {
+    "__comp": "17896441",
+    "content": "e1ab45bf"
+  },
   "/teleinformatyka-wikipedia/pl/tools/wireshark-007": {
     "__comp": "17896441",
     "content": "a814d049"
+  },
+  "/teleinformatyka-wikipedia/pl/wireless/5g-nr-5ae": {
+    "__comp": "17896441",
+    "content": "c23dea45"
+  },
+  "/teleinformatyka-wikipedia/pl/wireless/antennas-e62": {
+    "__comp": "17896441",
+    "content": "c68f77d5"
+  },
+  "/teleinformatyka-wikipedia/pl/wireless/lte-4g-c97": {
+    "__comp": "17896441",
+    "content": "d84e01d8"
+  },
+  "/teleinformatyka-wikipedia/pl/wireless/microwave-links-a0b": {
+    "__comp": "17896441",
+    "content": "758216a4"
   },
   "/teleinformatyka-wikipedia/pl/wireless/wifi-standards-ec8": {
     "__comp": "17896441",

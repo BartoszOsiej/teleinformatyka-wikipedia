@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 🎯 Projektowanie sieci
+# 🎯 Network Design — Projektowanie sieci
 
 
 ---

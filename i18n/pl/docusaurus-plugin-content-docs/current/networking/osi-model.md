@@ -2,12 +2,12 @@
 sidebar_position: 1
 ---
 
-# 🌐 Model OSI
+# 🌐 Model OSI — Open Systems Interconnection
 
 
 ---
 
-## 🇬🇧 The 7 Layers
+## The 7 Layers
 
 | Layer | Name | PDU | Protocols | Device |
 |-------|------|-----|-----------|--------|
@@ -19,104 +19,6 @@ sidebar_position: 1
 | **2** | Data Link | Frame | Ethernet, PPP, ARP, STP | Switch, Bridge |
 | **1** | Physical | Bit | USB, Bluetooth, DSL, fiber | Hub, Repeater, Cable |
 
----
-
-## 🇵🇱 7 Warstw Modelu OSI
-
-| Warstwa | Nazwa | PDU | Protokoły | Urządzenie |
-|---------|-------|-----|-----------|------------|
-| **7** | Aplikacji | Dane | HTTP, FTP, SMTP, DNS, SNMP | Firewall (L7), Proxy |
-| **6** | Prezentacji | Dane | SSL/TLS, JPEG, MPEG, ASCII | — |
-| **5** | Sesji | Dane | NetBIOS, RPC, PPTP | — |
-| **4** | Transportu | Segment/Datagram | TCP, UDP, SCTP | Balanser obciążenia (L4) |
-| **3** | Sieciowa | Pakiet | IP, ICMP, OSPF, BGP, RIP | Router |
-| **2** | Łączności danych | Ramka | Ethernet, PPP, ARP, STP | Switch, Bridge |
-| **1** | Fizyczna | Bit | USB, Bluetooth, DSL, światłowód | Hub, Repeater, Kabel |
-
----
-
-## 🇬🇧 Layer Details
-
-### Layer 7 — Application
-
-The layer closest to the end user. Applications communicate with the network through this layer.
-
-**Key protocols:**
-- **HTTP/HTTPS** — web browsing (ports 80/443)
-- **DNS** — domain name resolution (port 53)
-- **SMTP/IMAP/POP3** — email (ports 25/143/110)
-- **FTP/SFTP** — file transfer (ports 21/22)
-- **SNMP** — network management (ports 161/162)
-- **SSH** — secure remote access (port 22)
-- **Telnet** — remote access (port 23) — **insecure, avoid**
-
-**PDU:** Data (message)
-
-**Devices:** Application-level firewalls, proxies, load balancers (L7)
-
----
-
-### Layer 6 — Presentation
-
-Handles data translation, encryption, and compression.
-
-**Functions:**
-- **Translation** — character encoding (ASCII, UTF-8, EBCDIC)
-- **Encryption/Decryption** — SSL/TLS, AES, RSA
-- **Compression** — gzip, JPEG, MPEG
-
-**Key protocols:** SSL/TLS (handshake happens here, data transfer in L4)
-
----
-
-### Layer 5 — Session
-
-Manages sessions between applications.
-
-**Functions:**
-- Session establishment, maintenance, termination
-- Synchronization and checkpointing
-- Dialog control (half-duplex, full-duplex)
-
-**Key protocols:** NetBIOS, RPC, PPTP, L2TP (session phase)
-
----
-
-### Layer 4 — Transport
-
-Provides end-to-end communication, flow control, and error recovery.
-
-#### TCP (Transmission Control Protocol)
-
-| Feature | Value |
-|---|---|
-| Connection | 3-way handshake (SYN → SYN-ACK → ACK) |
-| Reliability | Guaranteed delivery, retransmission |
-| Ordering | Sequence numbers, acknowledgments |
-| Flow control | Sliding window |
-| Congestion control | Slow start, AIMD, fast retransmit |
-| Header | 20-60 bytes |
-| Use cases | Web, email, file transfer, SSH |
-
-**TCP 3-Way Handshake:**
-```
-Client                    Server
-  |---- SYN (seq=x) ------->|
-  |<--- SYN-ACK (seq=y, ack=x+1) ---|
-  |---- ACK (ack=y+1) ------>|
-  |       Connection established      |
-```
-
-#### UDP (User Datagram Protocol)
-
-| Feature | Value |
-|---|---|
-| Connection | Connectionless |
-| Reliability | Best-effort (no guarantee) |
-| Ordering | No ordering |
-| Flow control | None |
-| Header | 8 bytes |
-| Use cases | DNS, VoIP, gaming, streaming, DHCP |
 
 **PDU:** Segment (TCP) / Datagram (UDP)
 
@@ -185,7 +87,7 @@ Handles transmission of raw bits over a physical medium.
 
 ---
 
-## 🇬🇧 Mnemonics
+## Mnemonics
 
 **Layer order (top-down):** **A**ll **P**eople **S**eem **T**o **N**eed **D**ata **P**rocessing
 
@@ -202,7 +104,7 @@ Handles transmission of raw bits over a physical medium.
 
 ---
 
-## 🇬🇧 Common Exam Questions
+## Common Exam Questions
 
 1. **What happens when you type a URL in a browser?** — Full stack traversal from L7 (DNS, HTTP) through L4 (TCP handshake), L3 (routing), L2 (switching), to L1 (physical transmission).
 

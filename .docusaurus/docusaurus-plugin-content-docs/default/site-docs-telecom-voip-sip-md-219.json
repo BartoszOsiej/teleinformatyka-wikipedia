@@ -17,11 +17,11 @@
   },
   "sidebar": "mainSidebar",
   "previous": {
-    "title": "🔌 Switching",
-    "permalink": "/teleinformatyka-wikipedia/networking/switching"
+    "title": "PSTN & ISDN",
+    "permalink": "/teleinformatyka-wikipedia/telecom/pstn-isdn"
   },
   "next": {
-    "title": "📞 VoIP & SIP — Voice over IP",
-    "permalink": "/teleinformatyka-wikipedia/telecom/voip-sip"
+    "title": "SDH & SONET",
+    "permalink": "/teleinformatyka-wikipedia/telecom/sdh-sonet"
   }
 }

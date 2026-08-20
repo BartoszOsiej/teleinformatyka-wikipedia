@@ -29,7 +29,7 @@ capture and interactively browse traffic running on a computer network.
 3. Traffic appears in real-time
 4. Click **Stop** when done
 
-### Filtry wyświetlania
+### Display Filters
 
 | Filter | Description |
 |--------|-------------|
@@ -40,7 +40,7 @@ capture and interactively browse traffic running on a computer network.
 | `tcp.flags.syn == 1` | TCP SYN packets (new connections) |
 | `tcp.flags.rst == 1` | TCP RST (connection reset) |
 | `icmp` | Ping/traceroute |
-| `frame.len > 1000` | Large packets |
+| `frame.len &gt; 1000` | Large packets |
 | `!(arp or dns)` | Exclude ARP and DNS |
 
 ### Capture Filters (BPF)
@@ -74,7 +74,7 @@ capture and interactively browse traffic running on a computer network.
 |--------|-------------|
 | `http.request` | All HTTP requests |
 | `http.response.code == 200` | Successful responses |
-| `http.response.code >= 400` | Error responses |
+| `http.response.code &gt;= 400` | Error responses |
 | `http.host == "example.com"` | Specific host |
 | `http.request.uri contains "login"` | Login requests |
 

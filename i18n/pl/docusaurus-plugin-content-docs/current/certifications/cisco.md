@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 🎓 Certyfikacje Cisco
+# 🎓 Cisco Certifications
 
 
 ---
@@ -56,7 +56,7 @@ sidebar_position: 1
 | Security Fundamentals | 15% |
 | Automation and Programmability | 10% |
 
-### Study Resources
+### Materiały do nauki
 
 | Resource | Type |
 |----------|------|
