@@ -7,8 +7,6 @@ const config: Config = {
   tagline: 'Kompleksowa encyklopedia teleinformatyki / Comprehensive Teleinformatics Encyclopedia',
   favicon: 'img/favicon.ico',
 
-  future: { v4: true },
-
   url: 'https://bartoszosiej.github.io',
   baseUrl: '/teleinformatyka-wikipedia/',
 
