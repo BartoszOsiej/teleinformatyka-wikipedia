@@ -13,31 +13,31 @@ sidebar_position: 1
 
 ## 📖 Co znajdziesz w tej encyklopedii
 
-### 🌐 [Sieci komputerowe](/networking/)
+### 🌐 [Sieci komputerowe](/networking/osi-model)
 Model OSI, TCP/IP, adresowanie IP, routing, switching, DNS/DHCP — od podstaw do zaawansowanych koncepcji.
 
-### 📡 [Telekomunikacja](/telecom/)
+### 📡 [Telekomunikacja](/telecom/voip-sip)
 PSTN, ISDN, VoIP, SIP, SDH/SONET, multipleksacja, QoS — everything a telecom engineer works with daily.
 
-### 💡 [Światłowody](/fiber-optics/)
+### 💡 [Światłowody](/fiber-optics/fundamentals)
 Fundamenty optyczne, kable i złączki, pomiar OTDR, WDM/DWDM, spajanie fuzji — complete fiber optic knowledge.
 
-### 📶 [Bezprzewodowe](/wireless/)
+### 📶 [Bezprzewodowe](/wireless/wifi-standards)
 WiFi (802.11a/b/g/n/ac/ax), LTE/4G, 5G NR, łącza mikrofalowe, anteny — wireless in all forms.
 
-### 🔐 [Bezpieczeństwo](/security/)
+### 🔐 [Bezpieczeństwo](/security/firewalls)
 Firewalls, VPN, szyfrowanie, IDS/IPS, zero trust — security is everyone's job now.
 
-### 📋 [Protokoły](/protocols/)
+### 📋 [Protokoły](/networking/tcp-ip)
 HTTP/HTTPS, BGP/OSPF, SNMP/NETCONF, MPLS/VPN — the protocols that make the internet work.
 
-### 🛠️ [Narzędzia](/tools/)
+### 🛠️ [Narzędzia](/tools/wireshark)
 Wireshark, Nmap, pfSense, monitoring — tools of the trade.
 
-### 🎓 [Certyfikaty](/certifications/)
+### 🎓 [Certyfikaty](/certifications/cisco)
 Cisco CCNA/CCNP, CompTIA Network+/Security+, Juniper, cloud certs — career paths and study guides.
 
-### 🎯 [Scenariusze](/scenarios/)
+### 🎯 [Scenariusze](/scenarios/network-design)
 Network design, troubleshooting, migration, remote work — real-world situations you'll face.
 
 ---
@@ -68,9 +68,9 @@ This site covers the full spectrum of teleinformatics:
 
 Choose your starting point:
 
-- **[Sieci komputerowe](/networking/)** — zacznij od podstaw modelu OSI
-- **[Certyfikaty](/certifications/)** — zaplanuj swoją ścieżkę kariery
-- **[Scenariusze](/scenarios/)** — przejdź do praktycznych przykładów
-- **[Narzędzia](/tools/)** — poznaj narzędzia codziennej pracy
+- **[Sieci komputerowe](/networking/osi-model)** — zacznij od podstaw modelu OSI
+- **[Certyfikaty](/certifications/cisco)** — zaplanuj swoją ścieżkę kariery
+- **[Scenariusze](/scenarios/network-design)** — przejdź do praktycznych przykładów
+- **[Narzędzia](/tools/wireshark)** — poznaj narzędzia codziennej pracy
 
 ---
