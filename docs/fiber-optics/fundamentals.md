@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 💡 Fiber Optics — Światłowody
+# 💡 Fiber Optics
 
 
 ---

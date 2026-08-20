@@ -1,6 +1,6 @@
 {
   "id": "tools/wireshark",
-  "title": "🔍 Wireshark — Analizator protokołów",
+  "title": "🔍 Wireshark",
   "description": "---",
   "source": "@site/docs/tools/wireshark.md",
   "sourceDirName": "tools",
@@ -21,7 +21,7 @@
     "permalink": "/teleinformatyka-wikipedia/security/firewalls"
   },
   "next": {
-    "title": "🔍 Wireshark — Analizator protokołów",
+    "title": "🔍 Wireshark",
     "permalink": "/teleinformatyka-wikipedia/tools/wireshark"
   }
 }

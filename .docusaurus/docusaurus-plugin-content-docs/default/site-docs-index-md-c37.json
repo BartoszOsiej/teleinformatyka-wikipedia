@@ -1,7 +1,7 @@
 {
   "id": "index",
-  "title": "📡 Teleinformatyka Wikipedia",
-  "description": "Kompleksowa encyklopedia wiedzy teleinformatycznej — po polsku i angielsku.",
+  "title": "📡 Teleinformatics Wikipedia",
+  "description": "Comprehensive teleinformatics knowledge encyclopedia — bilingual PL/EN.",
   "source": "@site/docs/index.md",
   "sourceDirName": ".",
   "slug": "/",

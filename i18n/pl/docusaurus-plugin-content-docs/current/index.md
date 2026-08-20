@@ -5,72 +5,61 @@ sidebar_position: 1
 
 # 📡 Teleinformatyka Wikipedia
 
-**Kompleksowa encyklopedia wiedzy teleinformatycznej — po polsku i angielsku.**
+**Kompleksowa encyklopedia wiedzy teleinformatycznej — dwujęzyczna PL/EN.**
 
 > *Kompletny przewodnik po wszystkim, co może wymagać zawód teleinformatyka w pracy — od podstaw sieci po zaawansowaną architekturę 5G.*
 
 ---
 
-## 📖 Co znajdziesz w tej encyklopedii
+## 📖 Co znajdziesz
 
 ### 🌐 [Sieci komputerowe](/networking/osi-model)
-Model OSI, TCP/IP, adresowanie IP, routing, switching, DNS/DHCP — od podstaw do zaawansowanych koncepcji.
+Model OSI, TCP/IP, adresowanie IP, routing, switching, DNS/DHCP — od podstaw do zaawansowanych.
 
 ### 📡 [Telekomunikacja](/telecom/voip-sip)
-PSTN, ISDN, VoIP, SIP, SDH/SONET, multipleksacja, QoS — everything a telecom engineer works with daily.
+PSTN, ISDN, VoIP, SIP, SDH/SONET, multipleksacja, QoS — wszystko, z czym pracuje teleinformatyk.
 
 ### 💡 [Światłowody](/fiber-optics/fundamentals)
-Fundamenty optyczne, kable i złączki, pomiar OTDR, WDM/DWDM, spajanie fuzji — complete fiber optic knowledge.
+Podstawy, kable, złączki, pomiar OTDR, WDM/DWDM, spajanie fuzji — kompletna wiedza o światłowodach.
 
 ### 📶 [Bezprzewodowe](/wireless/wifi-standards)
-WiFi (802.11a/b/g/n/ac/ax), LTE/4G, 5G NR, łącza mikrofalowe, anteny — wireless in all forms.
+WiFi (802.11a/b/g/n/ac/ax), LTE/4G, 5G NR, łącza mikrofalowe, anteny — wszystkie formy łączności bezprzewodowej.
 
 ### 🔐 [Bezpieczeństwo](/security/firewalls)
-Firewalls, VPN, szyfrowanie, IDS/IPS, zero trust — security is everyone's job now.
-
-### 📋 [Protokoły](/networking/tcp-ip)
-HTTP/HTTPS, BGP/OSPF, SNMP/NETCONF, MPLS/VPN — the protocols that make the internet work.
+Firewalls, VPN, szyfrowanie, IDS/IPS, zero trust — bezpieczeństwo to zadanie każdego.
 
 ### 🛠️ [Narzędzia](/tools/wireshark)
-Wireshark, Nmap, pfSense, monitoring — tools of the trade.
+Wireshark, Nmap, pfSense, monitoring — narzędzia codziennej pracy.
 
 ### 🎓 [Certyfikaty](/certifications/cisco)
-Cisco CCNA/CCNP, CompTIA Network+/Security+, Juniper, cloud certs — career paths and study guides.
+Cisco CCNA/CCNP/CCIE, CompTIA Network+/Security+, Juniper, certyfikaty chmurowe — ścieżki kariery.
 
 ### 🎯 [Scenariusze](/scenarios/network-design)
-Network design, troubleshooting, migration, remote work — real-world situations you'll face.
+Projektowanie sieci, troubleshooting, migracja, praca zdalna — realne sytuacje w pracy.
 
 ---
 
-## 🇬🇧 English
-
-**Kompleksowa encyklopedia wiedzy teleinformatycznej — po polsku i angielsku.**
-
-> *A complete guide to everything a telecommunications engineer might need in their work — from networking basics to advanced 5G architecture.*
-
-This site covers the full spectrum of teleinformatics:
-
-| Section | Topics |
-|---|---|
-| 🌐 **Networking** | OSI, TCP/IP, routing, switching, DNS |
-| 📡 **Telecom** | PSTN, VoIP, SIP, SDH/SONET, QoS |
-| 💡 **Fiber Optics** | OTDR, WDM/DWDM, splicing, cables |
-| 📶 **Wireless** | WiFi, LTE, 5G, microwave, antennas |
-| 🔐 **Security** | Firewalls, VPN, encryption, zero trust |
-| 📋 **Protocols** | BGP, OSPF, SNMP, MPLS, HTTP |
-| 🛠️ **Tools** | Wireshark, Nmap, pfSense, monitoring |
-| 🎓 **Certifications** | Cisco, CompTIA, Juniper, cloud |
-| 🎯 **Scenarios** | Design, troubleshooting, migration |
-
----
-
-## 🚀 Quick Start
+## 🚀 Szybki start
 
 Wybierz punkt startu:
 
 - **[Sieci komputerowe](/networking/osi-model)** — zacznij od podstaw modelu OSI
-- **[Certyfikaty](/certifications/cisco)** — zaplanuj swoją ścieżkę kariery
+- **[Certyfikaty](/certifications/cisco)** — zaplanuj ścieżkę kariery
 - **[Scenariusze](/scenarios/network-design)** — przejdź do praktycznych przykładów
 - **[Narzędzia](/tools/wireshark)** — poznaj narzędzia codziennej pracy
 
 ---
+
+## 📚 Struktura
+
+```
+docs/
+├── networking/          OSI, TCP/IP, routing, switching
+├── telecom/             VoIP, SIP, SDH, QoS
+├── fiber-optics/        OTDR, WDM, spajanie
+├── wireless/            WiFi, LTE, 5G
+├── security/            Firewalls, VPN, szyfrowanie
+├── tools/               Wireshark, Nmap, pfSense
+├── certifications/      Cisco, CompTIA, Juniper
+└── scenarios/           Projektowanie, troubleshooting, migracja
+```

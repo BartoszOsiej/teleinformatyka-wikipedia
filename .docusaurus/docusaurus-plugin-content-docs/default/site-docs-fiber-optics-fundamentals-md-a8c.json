@@ -1,6 +1,6 @@
 {
   "id": "fiber-optics/fundamentals",
-  "title": "💡 Fiber Optics — Światłowody",
+  "title": "💡 Fiber Optics",
   "description": "---",
   "source": "@site/docs/fiber-optics/fundamentals.md",
   "sourceDirName": "fiber-optics",
@@ -21,7 +21,7 @@
     "permalink": "/teleinformatyka-wikipedia/telecom/voip-sip"
   },
   "next": {
-    "title": "💡 Fiber Optics — Światłowody",
+    "title": "💡 Fiber Optics",
     "permalink": "/teleinformatyka-wikipedia/fiber-optics/fundamentals"
   }
 }

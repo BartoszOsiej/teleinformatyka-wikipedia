@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 🔍 Wireshark — Analizator protokołów
+# 🔍 Wireshark
 
 
 ---

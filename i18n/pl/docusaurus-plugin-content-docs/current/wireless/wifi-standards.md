@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 📶 WiFi Standards — IEEE 802.11
+# 📶 Standardy WiFi
 
 
 ---

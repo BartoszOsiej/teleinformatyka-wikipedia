@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 🌐 TCP/IP — Transmission Control Protocol / Internet Protocol
+# 🌐 TCP/IP
 
 
 ---

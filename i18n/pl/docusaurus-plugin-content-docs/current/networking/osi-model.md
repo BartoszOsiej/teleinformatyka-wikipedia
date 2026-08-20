@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 🌐 Model OSI — Open Systems Interconnection
+# 🌐 Model OSI
 
 
 ---

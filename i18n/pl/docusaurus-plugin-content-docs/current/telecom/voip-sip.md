@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 📞 VoIP & SIP — Voice over IP
+# 📞 VoIP i SIP
 
 
 ---

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 🎓 Cisco Certifications — Ścieżka certyfikacyjna
+# 🎓 Certyfikacje Cisco
 
 
 ---
