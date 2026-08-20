@@ -210,5 +210,3 @@ Internal: 192.168.1.11:5000 → External: 203.0.113.1:40002
 - [BGP/OSPF](/protocols/bgp-ospf)
 
 ---
-
-> 🤖 Generated with [Codebuff](https://codebuff.com) · [Portfolio](https://bartoszosiej.github.io/Portfolio/)

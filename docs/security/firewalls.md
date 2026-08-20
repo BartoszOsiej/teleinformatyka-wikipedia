@@ -154,5 +154,3 @@ Traffic from lower → higher: denied by default (must explicitly permit)
 - [Zero Trust](/security/zero-trust)
 
 ---
-
-> 🤖 Generated with [Codebuff](https://codebuff.com) · [Portfolio](https://bartoszosiej.github.io/Portfolio/)

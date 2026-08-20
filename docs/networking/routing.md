@@ -205,5 +205,3 @@ router eigrp 100
 - [OSPF/BGP Deep Dive](/protocols/bgp-ospf)
 
 ---
-
-> 🤖 Generated with [Codebuff](https://codebuff.com) · [Portfolio](https://bartoszosiej.github.io/Portfolio/)

@@ -150,5 +150,3 @@ Example (10 km link):
 - [Fusion Splicing](/fiber-optics/fusion-splicing)
 
 ---
-
-> 🤖 Generated with [Codebuff](https://codebuff.com) · [Portfolio](https://bartoszosiej.github.io/Portfolio/)

@@ -176,5 +176,3 @@ Router 2 (Standby):
 - [Troubleshooting](/scenarios/troubleshooting)
 
 ---
-
-> 🤖 Generated with [Codebuff](https://codebuff.com) · [Portfolio](https://bartoszosiej.github.io/Portfolio/)

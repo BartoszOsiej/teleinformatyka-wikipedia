@@ -142,5 +142,3 @@ sidebar_position: 1
 - [Cloud Certifications](/certifications/cloud)
 
 ---
-
-> 🤖 Generated with [Codebuff](https://codebuff.com) · [Portfolio](https://bartoszosiej.github.io/Portfolio/)

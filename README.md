@@ -84,16 +84,8 @@ docs/
 
 ---
 
-## 🌐 Ecosystem
-
-Part of the [Bartosz Osiej Portfolio](https://bartoszosiej.github.io/Portfolio/) ecosystem.
-
----
-
 ## License
 
 MIT
 
 ---
-
-> 🤖 Generated with [Codebuff](https://codebuff.com)

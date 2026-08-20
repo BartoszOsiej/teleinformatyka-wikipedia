@@ -74,5 +74,3 @@ Choose your starting point:
 - **[Narzędzia](/tools/)** — poznaj narzędzia codziennej pracy
 
 ---
-
-> 🤖 Generated with [Codebuff](https://codebuff.com) · [Portfolio](https://bartoszosiej.github.io/Portfolio/)

@@ -154,5 +154,3 @@ Replaces traditional PRI/T1 lines with IP-based connectivity.
 - [VPN](/security/vpn)
 
 ---
-
-> 🤖 Generated with [Codebuff](https://codebuff.com) · [Portfolio](https://bartoszosiej.github.io/Portfolio/)

@@ -165,5 +165,3 @@ interface GigabitEthernet0/1
 - [Firewalls](/security/firewalls)
 
 ---
-
-> 🤖 Generated with [Codebuff](https://codebuff.com) · [Portfolio](https://bartoszosiej.github.io/Portfolio/)

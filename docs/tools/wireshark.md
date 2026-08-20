@@ -168,5 +168,3 @@ capture and interactively browse traffic running on a computer network.
 - [Troubleshooting](/scenarios/troubleshooting)
 
 ---
-
-> 🤖 Generated with [Codebuff](https://codebuff.com) · [Portfolio](https://bartoszosiej.github.io/Portfolio/)

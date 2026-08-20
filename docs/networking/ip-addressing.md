@@ -124,5 +124,3 @@ CIDR:        192.168.0.0/22 → 1022 hosts
 - [NAT/PAT](/networking/tcp-ip#nat)
 
 ---
-
-> 🤖 Generated with [Codebuff](https://codebuff.com) · [Portfolio](https://bartoszosiej.github.io/Portfolio/)

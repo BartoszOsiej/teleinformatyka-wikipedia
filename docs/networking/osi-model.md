@@ -226,5 +226,3 @@ Handles transmission of raw bits over a physical medium.
 - [Firewalls](/security/firewalls)
 
 ---
-
-> 🤖 Generated with [Codebuff](https://codebuff.com) · [Portfolio](https://bartoszosiej.github.io/Portfolio/)
