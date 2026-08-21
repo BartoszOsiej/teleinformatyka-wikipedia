@@ -7,7 +7,7 @@
 ![Docusaurus](https://img.shields.io/badge/Docusaurus-3.10-FF6B35?style=for-the-badge&logo=docusaurus)
 ![i18n](https://img.shields.io/badge/i18n-PL_%2F_EN-DC143C?style=for-the-badge)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/BartoszOsiej/teleinformatyka-wikipedia/badge)](https://scorecard.dev/viewer/?uri=github.com/BartoszOsiej/teleinformatyka-wikipedia)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/BartoszOsiej/teleinformatyka-wikipedia/badge)](https://securityscorecards.dev/viewer/?uri=github.com/BartoszOsiej/teleinformatyka-wikipedia)
 
 **Kompleksowa encyklopedia wiedzy teleinformatycznej — po polsku i angielsku.**
 
