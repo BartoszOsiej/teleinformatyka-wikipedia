@@ -1,19 +1,21 @@
-# 📡 Teleinformatyka Wikipedia
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:da3633,100:a3d6ff&height=140&section=header&text=Teleinformatyka%20Wikipedia&fontSize=32&fontColor=fff&desc=kompleksowa%20encyklopedia%20teleinformatyczna%20%C2%B7%20PL%20%2B%20EN&descSize=15&descAlignY=72" width="100%" />
 
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![Docusaurus](https://img.shields.io/badge/Docusaurus-3.10-FF6B35?style=flat-square&logo=docusaurus)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?style=flat-square&logo=typescript)
-![PL](https://img.shields.io/badge/Język-Polski-DC143C?style=flat-square)
-![EN](https://img.shields.io/badge/Language-English-00247D?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-GHCR-2496ED?style=flat-square&logo=docker)
+<div align="center">
+
+[![GHCR](https://img.shields.io/badge/GHCR-image-2496ED?style=for-the-badge&logo=docker)](https://github.com/BartoszOsiej/teleinformatyka-wikipedia/pkgs/container/teleinformatyka-wikipedia)
+[![Live](https://img.shields.io/badge/live-GitHub_Pages-2ea043?style=for-the-badge&logo=githubpages)](https://bartoszosiej.github.io/teleinformatyka-wikipedia/)
+![Docusaurus](https://img.shields.io/badge/Docusaurus-3.10-FF6B35?style=for-the-badge&logo=docusaurus)
+![i18n](https://img.shields.io/badge/i18n-PL_%2F_EN-DC143C?style=for-the-badge)
+[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
 **Kompleksowa encyklopedia wiedzy teleinformatycznej — po polsku i angielsku.**
 
-> *Kompletny przewodnik po wszystkim, co może wymagać zawód teleinformatyka w pracy — od podstaw sieci po zaawansowaną architekturę 5G.*
+> *Kompletny przewodnik po wszystkim, co może wymagać zawód teleinformatyka —
+> od podstaw sieci po zaawansowaną architekturę 5G.*
 
-**Live:** [bartoszosiej.github.io/teleinformatyka-wikipedia/](https://bartoszosiej.github.io/teleinformatyka-wikipedia/)
+**→ [bartoszosiej.github.io/teleinformatyka-wikipedia](https://bartoszosiej.github.io/teleinformatyka-wikipedia/)**
 
----
+</div>
 
 ## 📖 Co znajdziesz w tej encyklopedii
 
@@ -29,34 +31,15 @@
 | 🎓 **Certyfikaty** | Cisco (CCNA/CCNP/CCIE), CompTIA, Juniper, cloud |
 | 🎯 **Scenariusze** | Projektowanie, troubleshooting, migracja, remote work |
 
----
-
-## 🚀 Quick Start
-
-```bash
-# Local dev
-npm install
-npm start
-
-# Build
-npm run build
-
-# Docker
-docker build -t teleinformatyka-wikipedia .
-docker run -p 3000:80 teleinformatyka-wikipedia
-```
-
----
-
-## 🇬🇧 English
+<details>
+<summary><b>🇬🇧 English summary</b></summary>
 
 **Comprehensive teleinformatics knowledge encyclopedia — in Polish and English.**
 
-A complete guide to everything a telecommunications engineer might need in their work — from networking basics to advanced 5G architecture.
+A complete guide to everything a telecommunications engineer might need in
+their work — from networking basics to advanced 5G architecture.
 
----
-
-## 📚 Documentation Structure
+Documentation structure:
 
 ```
 docs/
@@ -71,9 +54,22 @@ docs/
 └── scenarios/           # Design, troubleshooting, migration
 ```
 
----
+</details>
 
-## 🏗️ Tech Stack
+<details>
+<summary><b>🚀 Quick start & tech stack</b></summary>
+
+```bash
+# Local dev
+npm install && npm start
+
+# Build
+npm run build
+
+# Docker
+docker build -t teleinformatyka-wikipedia .
+docker run -p 3000:80 teleinformatyka-wikipedia
+```
 
 | Layer | Tech |
 |-------|------|
@@ -82,10 +78,14 @@ docs/
 | Deployment | GitHub Pages + Docker/GHCR |
 | i18n | Polish (default) + English |
 
----
-
-## License
-
-MIT
+</details>
 
 ---
+
+<div align="center">
+
+**Part of [BartoszOsiej](https://github.com/BartoszOsiej)'s portfolio**
+
+MIT © 2026 Bartosz Osiej
+
+</div>
