@@ -21,15 +21,28 @@ Set Theme {
 Type "docker pull ghcr.io/bartoszosiej/teleinformatyka-wikipedia"
 Enter
 Sleep 1s
+Type "v1.0.0: Pulling from bartoszosiej/teleinformatyka-wikipedia"
+Enter
+Type "Digest: sha256:abc123..."
+Enter
+Type "Status: Downloaded newer image"
+Enter
+Sleep 500ms
 
 Type "docker run -p 3000:3000 teleinformatyka-wikipedia"
 Enter
 Sleep 1s
-
-Type "# Telecom encyclopedia · PL + EN"
+Type "   ✓ Docusaurus v3.10 server started"
+Enter
+Type "   ✓ i18n: PL + EN"
+Enter
+Type "   ✓ http://localhost:3000"
 Enter
 Sleep 500ms
 
+Type "# Telecom encyclopedia · PL + EN"
+Enter
+Sleep 400ms
 Type "# Docusaurus · networking · 5G · fiber · security"
 Enter
-Sleep 1s
+Sleep 800ms
