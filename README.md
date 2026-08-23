@@ -18,6 +18,19 @@
 
 </div>
 
+## 📺 Demo
+
+
+
+<!-- VHS auto-rendered — run: vhs demos/teleinfo.tape -->
+
+
+
+![Teleinformatyka Demo](assets/teleinfo-demo.svg)
+
+
+
+
 ## 📖 Co znajdziesz w tej encyklopedii
 
 | Sekcja | Tematy |
