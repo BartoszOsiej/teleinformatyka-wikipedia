@@ -26,7 +26,7 @@
 
 
 
-![Teleinformatyka Demo](assets/teleinfo-demo.svg)
+![Teleinformatyka Demo](assets/teleinfo-demo.gif)
 
 
 

@@ -1,4 +1,4 @@
-Output assets/teleinfo-demo.svg
+Output assets/teleinfo-demo.gif
 
 Set FontSize 16
 Set Width 960
