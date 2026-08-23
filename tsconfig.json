@@ -1,6 +1,7 @@
 {
   "extends": "@docusaurus/module-type-aliases/tsconfig.json",
   "compilerOptions": {
-    "baseUrl": "."
+    "baseUrl": ".",
+    "skipLibCheck": true
   }
 }
