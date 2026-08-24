@@ -2,12 +2,8 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    permissions:
-      contents: write
     branches: [master, main]
   workflow_dispatch:
-    permissions:
-      contents: write
 
 permissions: read-all
 
