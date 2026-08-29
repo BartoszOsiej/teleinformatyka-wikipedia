@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:da3633,100:a3d6ff&height=140&section=header&text=Teleinformatyka%20Wikipedia&fontSize=32&fontColor=fff&desc=kompleksowa%20encyklopedia%20teleinformatyczna%20%C2%B7%20PL%20%2B%20EN&descSize=15&descAlignY=72" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:da3633,100:a3d6ff&height=140&section=header&text=TeleWiedza&fontSize=32&fontColor=fff&desc=kompleksowa%20encyklopedia%20teleinformatyczna%20%C2%B7%20PL%20%2B%20EN&descSize=15&descAlignY=72" width="100%" />
 
 <div align="center">
 
