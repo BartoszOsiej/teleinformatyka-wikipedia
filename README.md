@@ -2,12 +2,12 @@
 
 <div align="center">
 
-[![GHCR](https://img.shields.io/badge/GHCR-image-2496ED?style=for-the-badge&logo=docker)](https://github.com/BartoszOsiej/teleinformatyka-wikipedia/pkgs/container/teleinformatyka-wikipedia)
+[![GHCR](https://img.shields.io/badge/GHCR-image-2496ED?style=for-the-badge&logo=docker)](https://github.com/BartoszOsiej/TeleWiedza/pkgs/container/teleinformatyka-wikipedia)
 [![Live](https://img.shields.io/badge/live-GitHub_Pages-2ea043?style=for-the-badge&logo=githubpages)](https://bartoszosiej.github.io/teleinformatyka-wikipedia/)
 ![Docusaurus](https://img.shields.io/badge/Docusaurus-3.10-FF6B35?style=for-the-badge&logo=docusaurus)
 ![i18n](https://img.shields.io/badge/i18n-PL_%2F_EN-DC143C?style=for-the-badge)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/BartoszOsiej/teleinformatyka-wikipedia/badge)](https://scorecard.dev/viewer/?uri=github.com/BartoszOsiej/teleinformatyka-wikipedia)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/BartoszOsiej/TeleWiedza/badge)](https://scorecard.dev/viewer/?uri=github.com/BartoszOsiej/TeleWiedza)
 
 **Kompleksowa encyklopedia wiedzy teleinformatycznej — po polsku i angielsku.**
 
