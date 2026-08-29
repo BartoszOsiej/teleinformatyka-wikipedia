@@ -1,233 +1,233 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/teleinformatyka-wikipedia/pl/",
+      "path": "/teleinformatyka-wikipedia/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/teleinformatyka-wikipedia/pl/",
+          "path": "/teleinformatyka-wikipedia/",
           "mainDocId": "index",
           "docs": [
             {
               "id": "certifications/cisco",
-              "path": "/teleinformatyka-wikipedia/pl/certifications/cisco",
+              "path": "/teleinformatyka-wikipedia/certifications/cisco",
               "sidebar": "mainSidebar"
             },
             {
               "id": "certifications/cloud",
-              "path": "/teleinformatyka-wikipedia/pl/certifications/cloud",
+              "path": "/teleinformatyka-wikipedia/certifications/cloud",
               "sidebar": "mainSidebar"
             },
             {
               "id": "certifications/comptia",
-              "path": "/teleinformatyka-wikipedia/pl/certifications/comptia",
+              "path": "/teleinformatyka-wikipedia/certifications/comptia",
               "sidebar": "mainSidebar"
             },
             {
               "id": "certifications/juniper",
-              "path": "/teleinformatyka-wikipedia/pl/certifications/juniper",
+              "path": "/teleinformatyka-wikipedia/certifications/juniper",
               "sidebar": "mainSidebar"
             },
             {
               "id": "fiber-optics/cables-connectors",
-              "path": "/teleinformatyka-wikipedia/pl/fiber-optics/cables-connectors",
+              "path": "/teleinformatyka-wikipedia/fiber-optics/cables-connectors",
               "sidebar": "mainSidebar"
             },
             {
               "id": "fiber-optics/fundamentals",
-              "path": "/teleinformatyka-wikipedia/pl/fiber-optics/fundamentals",
+              "path": "/teleinformatyka-wikipedia/fiber-optics/fundamentals",
               "sidebar": "mainSidebar"
             },
             {
               "id": "fiber-optics/fusion-splicing",
-              "path": "/teleinformatyka-wikipedia/pl/fiber-optics/fusion-splicing",
+              "path": "/teleinformatyka-wikipedia/fiber-optics/fusion-splicing",
               "sidebar": "mainSidebar"
             },
             {
               "id": "fiber-optics/testing-otdr",
-              "path": "/teleinformatyka-wikipedia/pl/fiber-optics/testing-otdr",
+              "path": "/teleinformatyka-wikipedia/fiber-optics/testing-otdr",
               "sidebar": "mainSidebar"
             },
             {
               "id": "fiber-optics/wdm-dwdm",
-              "path": "/teleinformatyka-wikipedia/pl/fiber-optics/wdm-dwdm",
+              "path": "/teleinformatyka-wikipedia/fiber-optics/wdm-dwdm",
               "sidebar": "mainSidebar"
             },
             {
               "id": "index",
-              "path": "/teleinformatyka-wikipedia/pl/",
+              "path": "/teleinformatyka-wikipedia/",
               "sidebar": "mainSidebar"
             },
             {
               "id": "networking/dns-dhcp",
-              "path": "/teleinformatyka-wikipedia/pl/networking/dns-dhcp",
+              "path": "/teleinformatyka-wikipedia/networking/dns-dhcp",
               "sidebar": "mainSidebar"
             },
             {
               "id": "networking/ip-addressing",
-              "path": "/teleinformatyka-wikipedia/pl/networking/ip-addressing",
+              "path": "/teleinformatyka-wikipedia/networking/ip-addressing",
               "sidebar": "mainSidebar"
             },
             {
               "id": "networking/load-balancing",
-              "path": "/teleinformatyka-wikipedia/pl/networking/load-balancing",
+              "path": "/teleinformatyka-wikipedia/networking/load-balancing",
               "sidebar": "mainSidebar"
             },
             {
               "id": "networking/osi-model",
-              "path": "/teleinformatyka-wikipedia/pl/networking/osi-model",
+              "path": "/teleinformatyka-wikipedia/networking/osi-model",
               "sidebar": "mainSidebar"
             },
             {
               "id": "networking/routing",
-              "path": "/teleinformatyka-wikipedia/pl/networking/routing",
+              "path": "/teleinformatyka-wikipedia/networking/routing",
               "sidebar": "mainSidebar"
             },
             {
               "id": "networking/switching",
-              "path": "/teleinformatyka-wikipedia/pl/networking/switching",
+              "path": "/teleinformatyka-wikipedia/networking/switching",
               "sidebar": "mainSidebar"
             },
             {
               "id": "networking/tcp-ip",
-              "path": "/teleinformatyka-wikipedia/pl/networking/tcp-ip",
+              "path": "/teleinformatyka-wikipedia/networking/tcp-ip",
               "sidebar": "mainSidebar"
             },
             {
               "id": "protocols/bgp-ospf",
-              "path": "/teleinformatyka-wikipedia/pl/protocols/bgp-ospf",
+              "path": "/teleinformatyka-wikipedia/protocols/bgp-ospf",
               "sidebar": "mainSidebar"
             },
             {
               "id": "protocols/http-https",
-              "path": "/teleinformatyka-wikipedia/pl/protocols/http-https",
+              "path": "/teleinformatyka-wikipedia/protocols/http-https",
               "sidebar": "mainSidebar"
             },
             {
               "id": "protocols/mpls-vpn",
-              "path": "/teleinformatyka-wikipedia/pl/protocols/mpls-vpn",
+              "path": "/teleinformatyka-wikipedia/protocols/mpls-vpn",
               "sidebar": "mainSidebar"
             },
             {
               "id": "protocols/snmp-netconf",
-              "path": "/teleinformatyka-wikipedia/pl/protocols/snmp-netconf",
+              "path": "/teleinformatyka-wikipedia/protocols/snmp-netconf",
               "sidebar": "mainSidebar"
             },
             {
               "id": "scenarios/migration",
-              "path": "/teleinformatyka-wikipedia/pl/scenarios/migration",
+              "path": "/teleinformatyka-wikipedia/scenarios/migration",
               "sidebar": "mainSidebar"
             },
             {
               "id": "scenarios/network-design",
-              "path": "/teleinformatyka-wikipedia/pl/scenarios/network-design",
+              "path": "/teleinformatyka-wikipedia/scenarios/network-design",
               "sidebar": "mainSidebar"
             },
             {
               "id": "scenarios/remote-work",
-              "path": "/teleinformatyka-wikipedia/pl/scenarios/remote-work",
+              "path": "/teleinformatyka-wikipedia/scenarios/remote-work",
               "sidebar": "mainSidebar"
             },
             {
               "id": "scenarios/troubleshooting",
-              "path": "/teleinformatyka-wikipedia/pl/scenarios/troubleshooting",
+              "path": "/teleinformatyka-wikipedia/scenarios/troubleshooting",
               "sidebar": "mainSidebar"
             },
             {
               "id": "security/encryption",
-              "path": "/teleinformatyka-wikipedia/pl/security/encryption",
+              "path": "/teleinformatyka-wikipedia/security/encryption",
               "sidebar": "mainSidebar"
             },
             {
               "id": "security/firewalls",
-              "path": "/teleinformatyka-wikipedia/pl/security/firewalls",
+              "path": "/teleinformatyka-wikipedia/security/firewalls",
               "sidebar": "mainSidebar"
             },
             {
               "id": "security/ids-ips",
-              "path": "/teleinformatyka-wikipedia/pl/security/ids-ips",
+              "path": "/teleinformatyka-wikipedia/security/ids-ips",
               "sidebar": "mainSidebar"
             },
             {
               "id": "security/vpn",
-              "path": "/teleinformatyka-wikipedia/pl/security/vpn",
+              "path": "/teleinformatyka-wikipedia/security/vpn",
               "sidebar": "mainSidebar"
             },
             {
               "id": "security/zero-trust",
-              "path": "/teleinformatyka-wikipedia/pl/security/zero-trust",
+              "path": "/teleinformatyka-wikipedia/security/zero-trust",
               "sidebar": "mainSidebar"
             },
             {
               "id": "telecom/multiplexing",
-              "path": "/teleinformatyka-wikipedia/pl/telecom/multiplexing",
+              "path": "/teleinformatyka-wikipedia/telecom/multiplexing",
               "sidebar": "mainSidebar"
             },
             {
               "id": "telecom/pstn-isdn",
-              "path": "/teleinformatyka-wikipedia/pl/telecom/pstn-isdn",
+              "path": "/teleinformatyka-wikipedia/telecom/pstn-isdn",
               "sidebar": "mainSidebar"
             },
             {
               "id": "telecom/qos",
-              "path": "/teleinformatyka-wikipedia/pl/telecom/qos",
+              "path": "/teleinformatyka-wikipedia/telecom/qos",
               "sidebar": "mainSidebar"
             },
             {
               "id": "telecom/sdh-sonet",
-              "path": "/teleinformatyka-wikipedia/pl/telecom/sdh-sonet",
+              "path": "/teleinformatyka-wikipedia/telecom/sdh-sonet",
               "sidebar": "mainSidebar"
             },
             {
               "id": "telecom/voip-sip",
-              "path": "/teleinformatyka-wikipedia/pl/telecom/voip-sip",
+              "path": "/teleinformatyka-wikipedia/telecom/voip-sip",
               "sidebar": "mainSidebar"
             },
             {
               "id": "tools/monitoring",
-              "path": "/teleinformatyka-wikipedia/pl/tools/monitoring",
+              "path": "/teleinformatyka-wikipedia/tools/monitoring",
               "sidebar": "mainSidebar"
             },
             {
               "id": "tools/nmap",
-              "path": "/teleinformatyka-wikipedia/pl/tools/nmap",
+              "path": "/teleinformatyka-wikipedia/tools/nmap",
               "sidebar": "mainSidebar"
             },
             {
               "id": "tools/pfsense",
-              "path": "/teleinformatyka-wikipedia/pl/tools/pfsense",
+              "path": "/teleinformatyka-wikipedia/tools/pfsense",
               "sidebar": "mainSidebar"
             },
             {
               "id": "tools/wireshark",
-              "path": "/teleinformatyka-wikipedia/pl/tools/wireshark",
+              "path": "/teleinformatyka-wikipedia/tools/wireshark",
               "sidebar": "mainSidebar"
             },
             {
               "id": "wireless/5g-nr",
-              "path": "/teleinformatyka-wikipedia/pl/wireless/5g-nr",
+              "path": "/teleinformatyka-wikipedia/wireless/5g-nr",
               "sidebar": "mainSidebar"
             },
             {
               "id": "wireless/antennas",
-              "path": "/teleinformatyka-wikipedia/pl/wireless/antennas",
+              "path": "/teleinformatyka-wikipedia/wireless/antennas",
               "sidebar": "mainSidebar"
             },
             {
               "id": "wireless/lte-4g",
-              "path": "/teleinformatyka-wikipedia/pl/wireless/lte-4g",
+              "path": "/teleinformatyka-wikipedia/wireless/lte-4g",
               "sidebar": "mainSidebar"
             },
             {
               "id": "wireless/microwave-links",
-              "path": "/teleinformatyka-wikipedia/pl/wireless/microwave-links",
+              "path": "/teleinformatyka-wikipedia/wireless/microwave-links",
               "sidebar": "mainSidebar"
             },
             {
               "id": "wireless/wifi-standards",
-              "path": "/teleinformatyka-wikipedia/pl/wireless/wifi-standards",
+              "path": "/teleinformatyka-wikipedia/wireless/wifi-standards",
               "sidebar": "mainSidebar"
             }
           ],
@@ -235,7 +235,7 @@
           "sidebars": {
             "mainSidebar": {
               "link": {
-                "path": "/teleinformatyka-wikipedia/pl/",
+                "path": "/teleinformatyka-wikipedia/",
                 "label": "index"
               }
             }

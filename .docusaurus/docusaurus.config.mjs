@@ -8,7 +8,7 @@ export default {
   "tagline": "Kompleksowa encyklopedia teleinformatyki / Comprehensive Teleinformatics Encyclopedia",
   "favicon": "img/favicon.ico",
   "url": "https://bartoszosiej.github.io",
-  "baseUrl": "/teleinformatyka-wikipedia/pl/",
+  "baseUrl": "/teleinformatyka-wikipedia/",
   "organizationName": "BartoszOsiej",
   "projectName": "teleinformatyka-wikipedia",
   "trailingSlash": false,
@@ -77,31 +77,31 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Dokumentacja",
+          "title": "Documentation",
           "items": [
             {
-              "label": "Sieci komputerowe",
+              "label": "Networking",
               "to": "/networking/osi-model"
             },
             {
-              "label": "Telekomunikacja",
+              "label": "Telecom",
               "to": "/telecom/voip-sip"
             },
             {
-              "label": "Światłowody",
+              "label": "Fiber Optics",
               "to": "/fiber-optics/fundamentals"
             }
           ]
         },
         {
-          "title": "Więcej",
+          "title": "More",
           "items": [
             {
-              "label": "Bezpieczeństwo",
+              "label": "Security",
               "to": "/security/firewalls"
             },
             {
-              "label": "Certyfikaty",
+              "label": "Certifications",
               "to": "/certifications/cisco"
             },
             {
